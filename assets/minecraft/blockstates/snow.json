@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "layers=1": [
+      { "model": "minecraft:block/snow_height2", "weight": 90 },
+	  { "model": "minecraft:block/snow_height2_alt", "weight": 10 }
+	],
+    "layers=2": [
+      {"model": "minecraft:block/snow_height2", "weight": 90, "y": 90},
+	  {"model": "minecraft:block/snow_height2_alt", "weight": 10, "y": 90}
+	],
+    "layers=3": {
+      "model": "minecraft:block/snow_height3"
+    },
+    "layers=4": {
+      "model": "minecraft:block/snow_height8"
+    },
+    "layers=5": {
+      "model": "minecraft:block/snow_height10"
+    },
+    "layers=6": {
+      "model": "minecraft:block/rails_concrete"
+    },
+    "layers=7": {
+      "model": "minecraft:block/rails_concrete", "y": 90
+    },
+    "layers=8": {
+      "model": "minecraft:block/snow_block"
+    }
+  }
+}

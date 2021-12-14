@@ -1,0 +1,8222 @@
+{
+  "__comment": "Designed_by_Snhnry_with_BDcraft_Cubik_PRO_0.95_Beta_-_http://bdcraft.net",
+  "textures": {
+    "texture": "block/brewing_stand"
+  },
+  "elements": [
+    {
+      "__comment": "Teapot",
+      "from": [
+        2,
+        2.25,
+        7.625
+      ],
+      "to": [
+        2.75,
+        4.125,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        2.375,
+        1.875,
+        7.625
+      ],
+      "to": [
+        3.5,
+        2.25,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        2.75,
+        1.5,
+        7.625
+      ],
+      "to": [
+        12.125,
+        1.875,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        2.75,
+        3.75,
+        7.625
+      ],
+      "to": [
+        10.625,
+        4.5,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.5,
+        1.125,
+        7.625
+      ],
+      "to": [
+        11.75,
+        1.5,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        1.5,
+        6.125
+      ],
+      "to": [
+        11,
+        1.875,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        1.125,
+        6.5
+      ],
+      "to": [
+        11.375,
+        1.5,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        1.875,
+        6.5
+      ],
+      "to": [
+        11.375,
+        2.625,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        0.75,
+        6.875
+      ],
+      "to": [
+        11,
+        1.125,
+        9.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        2.625,
+        6.875
+      ],
+      "to": [
+        11.375,
+        3,
+        9.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        3,
+        7.25
+      ],
+      "to": [
+        11,
+        3.375,
+        8.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        1.125,
+        8.375
+      ],
+      "to": [
+        11.375,
+        1.875,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        3.875,
+        1.5,
+        9.5
+      ],
+      "to": [
+        11,
+        1.875,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.125,
+        5.75
+      ],
+      "to": [
+        11,
+        1.5,
+        6.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.5,
+        5.75
+      ],
+      "to": [
+        10.625,
+        3,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        0.75,
+        6.125
+      ],
+      "to": [
+        11,
+        1.125,
+        6.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.875,
+        6.125
+      ],
+      "to": [
+        11,
+        3.375,
+        6.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        2.625,
+        6.5
+      ],
+      "to": [
+        11,
+        3.75,
+        6.875
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        0.375,
+        6.875
+      ],
+      "to": [
+        10.625,
+        0.75,
+        9.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        3,
+        6.875
+      ],
+      "to": [
+        10.625,
+        4.125,
+        7.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        3.375,
+        7.25
+      ],
+      "to": [
+        11,
+        3.75,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        3.75,
+        7.25
+      ],
+      "to": [
+        11,
+        4.125,
+        7.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        3.75,
+        8.375
+      ],
+      "to": [
+        10.625,
+        4.125,
+        9.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        3,
+        8.75
+      ],
+      "to": [
+        11,
+        3.375,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        0.75,
+        9.125
+      ],
+      "to": [
+        11,
+        1.125,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        2.625,
+        9.125
+      ],
+      "to": [
+        10.625,
+        3,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.125,
+        9.5
+      ],
+      "to": [
+        11,
+        1.5,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.875,
+        9.5
+      ],
+      "to": [
+        11,
+        2.625,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.25,
+        1.5,
+        9.875
+      ],
+      "to": [
+        11,
+        1.875,
+        10.25
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        0.75,
+        5.375
+      ],
+      "to": [
+        10.25,
+        1.125,
+        6.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        1.125,
+        5.375
+      ],
+      "to": [
+        10.625,
+        3,
+        5.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3,
+        5.75
+      ],
+      "to": [
+        10.25,
+        3.75,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        0.375,
+        6.125
+      ],
+      "to": [
+        10.625,
+        0.75,
+        6.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3.375,
+        6.125
+      ],
+      "to": [
+        10.625,
+        4.125,
+        6.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3.75,
+        6.5
+      ],
+      "to": [
+        10.625,
+        4.5,
+        6.875
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        0,
+        6.92188
+      ],
+      "to": [
+        10.25,
+        0.375,
+        9.17188
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        4.125,
+        6.875
+      ],
+      "to": [
+        10.25,
+        4.875,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        4.5,
+        7.625
+      ],
+      "to": [
+        10.25,
+        4.875,
+        9.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        4.125,
+        8.375
+      ],
+      "to": [
+        10.625,
+        4.5,
+        9.5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        0.375,
+        9.125
+      ],
+      "to": [
+        10.625,
+        0.75,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3.75,
+        9.125
+      ],
+      "to": [
+        10.625,
+        4.125,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3.375,
+        9.5
+      ],
+      "to": [
+        10.25,
+        3.75,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        0.75,
+        9.875
+      ],
+      "to": [
+        10.25,
+        1.125,
+        10.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        3,
+        9.875
+      ],
+      "to": [
+        10.625,
+        3.375,
+        10.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        4.625,
+        1.125,
+        10.25
+      ],
+      "to": [
+        10.625,
+        3,
+        10.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0.75,
+        5
+      ],
+      "to": [
+        9.875,
+        3,
+        5.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        3,
+        5.375
+      ],
+      "to": [
+        10.25,
+        3.75,
+        5.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0.375,
+        5.75
+      ],
+      "to": [
+        10.25,
+        0.75,
+        6.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        3.75,
+        5.75
+      ],
+      "to": [
+        9.875,
+        4.5,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0,
+        6.125
+      ],
+      "to": [
+        10.25,
+        0.375,
+        6.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        4.125,
+        6.125
+      ],
+      "to": [
+        10.25,
+        4.875,
+        6.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        4.5,
+        6.5
+      ],
+      "to": [
+        10.25,
+        4.875,
+        6.875
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0,
+        9.125
+      ],
+      "to": [
+        10.25,
+        0.375,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        4.5,
+        9.125
+      ],
+      "to": [
+        10.25,
+        4.875,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        4.125,
+        9.5
+      ],
+      "to": [
+        9.875,
+        4.5,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0.375,
+        9.875
+      ],
+      "to": [
+        10.25,
+        0.75,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        3.75,
+        9.875
+      ],
+      "to": [
+        10.25,
+        4.125,
+        10.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        3,
+        10.25
+      ],
+      "to": [
+        10.25,
+        3.75,
+        10.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5,
+        0.75,
+        10.625
+      ],
+      "to": [
+        9.875,
+        3,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        1.125,
+        4.625
+      ],
+      "to": [
+        9.875,
+        2.625,
+        5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        3,
+        5
+      ],
+      "to": [
+        9.875,
+        3.75,
+        5.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        0.375,
+        5.375
+      ],
+      "to": [
+        9.875,
+        0.75,
+        5.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        3.75,
+        5.375
+      ],
+      "to": [
+        9.875,
+        4.125,
+        5.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        0,
+        5.75
+      ],
+      "to": [
+        9.875,
+        0.375,
+        6.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        4.5,
+        5.75
+      ],
+      "to": [
+        9.875,
+        4.875,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        0,
+        9.875
+      ],
+      "to": [
+        9.875,
+        0.375,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        4.5,
+        9.875
+      ],
+      "to": [
+        9.875,
+        4.875,
+        10.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        0.375,
+        10.25
+      ],
+      "to": [
+        9.875,
+        0.75,
+        10.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        3.75,
+        10.25
+      ],
+      "to": [
+        9.875,
+        4.125,
+        10.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        3,
+        10.625
+      ],
+      "to": [
+        9.875,
+        3.75,
+        11
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.375,
+        1.125,
+        11
+      ],
+      "to": [
+        9.875,
+        2.625,
+        11.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0.75,
+        4.625
+      ],
+      "to": [
+        9.5,
+        1.125,
+        5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        2.625,
+        4.625
+      ],
+      "to": [
+        9.5,
+        3.375,
+        5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0.375,
+        5
+      ],
+      "to": [
+        9.5,
+        0.75,
+        5.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        3.75,
+        5
+      ],
+      "to": [
+        9.5,
+        4.125,
+        5.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0,
+        5.375
+      ],
+      "to": [
+        9.5,
+        0.375,
+        5.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        4.125,
+        5.375
+      ],
+      "to": [
+        9.5,
+        4.875,
+        5.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0,
+        10.25
+      ],
+      "to": [
+        9.5,
+        0.375,
+        10.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        4.125,
+        10.25
+      ],
+      "to": [
+        9.5,
+        4.875,
+        10.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0.375,
+        10.625
+      ],
+      "to": [
+        9.5,
+        0.75,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        3.75,
+        10.625
+      ],
+      "to": [
+        9.5,
+        4.125,
+        11
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        0.75,
+        11
+      ],
+      "to": [
+        9.5,
+        1.125,
+        11.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        5.75,
+        2.625,
+        11
+      ],
+      "to": [
+        9.5,
+        3.375,
+        11.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        1.125,
+        4.25
+      ],
+      "to": [
+        9.125,
+        2.625,
+        4.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        3.375,
+        4.625
+      ],
+      "to": [
+        9.125,
+        3.75,
+        5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        4.125,
+        5
+      ],
+      "to": [
+        9.125,
+        4.5,
+        5.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        4.125,
+        10.625
+      ],
+      "to": [
+        9.125,
+        4.5,
+        11
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        3.375,
+        11
+      ],
+      "to": [
+        9.125,
+        3.75,
+        11.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.125,
+        1.125,
+        11.375
+      ],
+      "to": [
+        9.125,
+        2.625,
+        11.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0.75,
+        4.25
+      ],
+      "to": [
+        8.375,
+        1.125,
+        4.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        2.625,
+        4.25
+      ],
+      "to": [
+        8.75,
+        3,
+        4.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0.375,
+        4.625
+      ],
+      "to": [
+        8.75,
+        0.75,
+        5
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0,
+        5
+      ],
+      "to": [
+        8.375,
+        0.375,
+        5.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        4.5,
+        5
+      ],
+      "to": [
+        8.375,
+        4.875,
+        5.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        4.875,
+        7.25
+      ],
+      "to": [
+        8.375,
+        5.25,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0,
+        10.625
+      ],
+      "to": [
+        8.375,
+        0.375,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        4.5,
+        10.625
+      ],
+      "to": [
+        8.375,
+        4.875,
+        11
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0.375,
+        11
+      ],
+      "to": [
+        8.75,
+        0.75,
+        11.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        0.75,
+        11.375
+      ],
+      "to": [
+        8.375,
+        1.125,
+        11.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.5,
+        2.625,
+        11.375
+      ],
+      "to": [
+        8.75,
+        3,
+        11.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        3,
+        4.25
+      ],
+      "to": [
+        8,
+        3.375,
+        4.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        3.75,
+        4.625
+      ],
+      "to": [
+        8.375,
+        4.125,
+        5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        4.875,
+        6.875
+      ],
+      "to": [
+        8,
+        5.25,
+        7.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        5.625,
+        7.25
+      ],
+      "to": [
+        8.375,
+        6,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        5.25,
+        7.625
+      ],
+      "to": [
+        8.375,
+        5.625,
+        8.375
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        4.875,
+        8.75
+      ],
+      "to": [
+        8,
+        5.25,
+        9.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        3.75,
+        11
+      ],
+      "to": [
+        8.375,
+        4.125,
+        11.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        6.875,
+        3,
+        11.375
+      ],
+      "to": [
+        8,
+        3.375,
+        11.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        7.25,
+        5.25,
+        7.25
+      ],
+      "to": [
+        8,
+        5.625,
+        7.625
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        7.25,
+        5.25,
+        8.375
+      ],
+      "to": [
+        8,
+        5.625,
+        8.75
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        8.375,
+        4.875,
+        7.625
+      ],
+      "to": [
+        8.75,
+        5.25,
+        8.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        9.875,
+        1.125,
+        5
+      ],
+      "to": [
+        10.25,
+        3,
+        5.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        9.875,
+        3.75,
+        5.75
+      ],
+      "to": [
+        10.25,
+        4.125,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        9.875,
+        4.125,
+        9.5
+      ],
+      "to": [
+        10.25,
+        4.5,
+        9.875
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        9.875,
+        1.125,
+        10.625
+      ],
+      "to": [
+        10.25,
+        3,
+        11
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        0.75,
+        5.75
+      ],
+      "to": [
+        10.625,
+        1.125,
+        6.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        3,
+        5.75
+      ],
+      "to": [
+        10.625,
+        3.375,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        4.125,
+        6.875
+      ],
+      "to": [
+        10.625,
+        4.5,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        0,
+        7.25
+      ],
+      "to": [
+        10.625,
+        0.375,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture",
+          "cullface": "down"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        4.5,
+        7.25
+      ],
+      "to": [
+        10.625,
+        4.875,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        3.375,
+        9.5
+      ],
+      "to": [
+        10.625,
+        3.75,
+        9.875
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.25,
+        0.75,
+        9.875
+      ],
+      "to": [
+        10.625,
+        1.125,
+        10.25
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.625,
+        1.5,
+        5.75
+      ],
+      "to": [
+        11,
+        2.625,
+        6.125
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.625,
+        3,
+        6.875
+      ],
+      "to": [
+        11,
+        3.75,
+        7.25
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.625,
+        0.375,
+        7.25
+      ],
+      "to": [
+        11,
+        0.75,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.625,
+        3.75,
+        7.625
+      ],
+      "to": [
+        11,
+        4.125,
+        8.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        10.625,
+        2.625,
+        9.125
+      ],
+      "to": [
+        11,
+        3,
+        9.875
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11,
+        1.5,
+        6.5
+      ],
+      "to": [
+        11.375,
+        1.875,
+        7.625
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11,
+        0.75,
+        7.25
+      ],
+      "to": [
+        11.375,
+        1.125,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        1.5,
+        6.875
+      ],
+      "to": [
+        11.75,
+        2.625,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        1.125,
+        7.25
+      ],
+      "to": [
+        11.75,
+        1.5,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        2.625,
+        7.25
+      ],
+      "to": [
+        12.875,
+        3,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        1.875,
+        7.625
+      ],
+      "to": [
+        12.125,
+        2.625,
+        9.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        1.125,
+        8.375
+      ],
+      "to": [
+        11.75,
+        1.875,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.375,
+        1.5,
+        8.75
+      ],
+      "to": [
+        11.75,
+        1.875,
+        9.125
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.75,
+        1.875,
+        6.875
+      ],
+      "to": [
+        12.125,
+        2.625,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.75,
+        1.5,
+        7.25
+      ],
+      "to": [
+        12.125,
+        1.875,
+        7.625
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.75,
+        3,
+        7.25
+      ],
+      "to": [
+        12.875,
+        3.375,
+        8.75
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.75,
+        3.375,
+        7.625
+      ],
+      "to": [
+        12.875,
+        3.75,
+        8.375
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        11.75,
+        1.5,
+        8.375
+      ],
+      "to": [
+        12.125,
+        1.875,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.125,
+        1.875,
+        7.25
+      ],
+      "to": [
+        12.5,
+        2.625,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.125,
+        3.375,
+        7.25
+      ],
+      "to": [
+        12.875,
+        4.125,
+        7.625
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.125,
+        3.75,
+        7.625
+      ],
+      "to": [
+        12.875,
+        4.125,
+        8.75
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.125,
+        4.125,
+        7.625
+      ],
+      "to": [
+        13.625,
+        4.5,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.125,
+        3.375,
+        8.375
+      ],
+      "to": [
+        12.875,
+        3.75,
+        8.75
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.5,
+        4.5,
+        7.625
+      ],
+      "to": [
+        14,
+        4.875,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "up": {
+          "uv": [
+            7.5,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "west": {
+          "uv": [
+            8,
+            10.5,
+            8.5,
+            11.5
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    },
+    {
+      "__comment": "Teapot",
+      "from": [
+        12.875,
+        3.75,
+        7.625
+      ],
+      "to": [
+        13.25,
+        4.125,
+        8.375
+      ],
+      "faces": {
+        "down": {
+          "uv": [
+            8.5,
+            11.5,
+            7.5,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "north": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            10.5
+          ],
+          "texture": "#texture"
+        },
+        "south": {
+          "uv": [
+            7.5,
+            10,
+            8,
+            11
+          ],
+          "texture": "#texture"
+        },
+        "east": {
+          "uv": [
+            8,
+            10,
+            8.5,
+            11
+          ],
+          "texture": "#texture"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson": {
+      "rotation": [
+        -180,
+        96,
+        -23
+      ],
+      "translation": [
+        -0.2,
+        -0.2,
+        -4.7
+      ],
+      "scale": [
+        0.88,
+        0.88,
+        0.88
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        7.3,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        5.4,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "firstperson": {
+      "rotation": [
+        -3,
+        38,
+        6
+      ],
+      "translation": [
+        -11.3,
+        8.6,
+        0.7
+      ],
+      "scale": [
+        0.69,
+        0.66,
+        0.69
+      ]
+    },
+    "gui": {
+      "rotation": [
+        0,
+        -11,
+        0
+      ],
+      "translation": [
+        0,
+        4.7,
+        0
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    }
+  }
+}

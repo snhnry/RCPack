@@ -1,0 +1,124 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/rc_street_pole"
+      }
+    },
+    {
+      "when": {
+        "up": "false", "east": "tall", "west": "tall"
+      },
+      "apply": {
+        "model": "minecraft:block/rc_street_pole_cap"
+      }
+    },
+    {
+      "when": {
+        "up": "false", "north": "tall", "south": "tall"
+      },
+      "apply": {
+        "model": "minecraft:block/rc_street_pole_cap"
+      }
+    },		
+    {
+      "when": {
+        "north": "low", "south": "none"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_single",
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "east": "low", "west": "none"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_single",
+        "y": 90,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "south": "low", "north": "none"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_single",
+        "y": 180,
+        "uvlock": false
+      }
+    },
+    {
+      "when": {
+        "west": "low", "east": "none"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_single",
+        "y": 270,
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "low", "south": "low", "east": "none", "west": "none", "up": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_long",
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "none", "south": "none", "east": "low", "west": "low", "up": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_long",
+		"y": 90,
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "tall", "south": "tall", "east": "none", "west": "none"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_both",
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "none", "south": "none", "east": "tall", "west": "tall"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_both",
+		"y": 90,
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "low", "south": "low", "east": "none", "west": "none", "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_both",
+        "uvlock": false
+      }
+    },
+	{
+      "when": {
+        "north": "none", "south": "none", "east": "low", "west": "low", "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_both",
+		"y": 90,
+        "uvlock": false
+      }
+    }	
+  ]
+}

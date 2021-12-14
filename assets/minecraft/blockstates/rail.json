@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "shape\u003dnorth_south": {
+      "model": "block/rail_street"
+    },
+    "shape\u003deast_west": {
+      "model": "block/rail_street",
+      "y": 90
+    },
+    "shape\u003dascending_east": {
+      "model": "block/rail_raised_ne",
+      "y": 90
+    },
+    "shape\u003dascending_west": {
+      "model": "block/rail_raised_sw",
+      "y": 90
+    },
+    "shape\u003dascending_north": {
+      "model": "block/rail_raised_ne"
+    },
+    "shape\u003dascending_south": {
+      "model": "block/rail_raised_sw"
+    },
+    "shape\u003dsouth_east": {
+      "model": "block/rail_street_curve",
+      "y": 90
+    },
+    "shape\u003dsouth_west": {
+      "model": "block/rail_street_curve",
+      "y": 180
+    },
+    "shape\u003dnorth_west": {
+      "model": "block/rail_street_curve",
+      "y": 270
+    },
+    "shape\u003dnorth_east": {
+      "model": "block/rail_street_curve"
+    }
+  }
+}
