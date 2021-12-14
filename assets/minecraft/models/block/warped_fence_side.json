@@ -1,8 +1,7 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
-		"0": "block/iron_block",
-		"particle": "block/iron_block"
+		"0": "block/iron_block"
 	},
 	"elements": [
 		{
