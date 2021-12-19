@@ -2654,7 +2654,7 @@
 				"north": {"uv": [16, 0, 0, 16], "texture": "#8", "tintindex": 0},
 				"east": {"uv": [16, 0, 0, 16], "texture": "#8", "tintindex": 0},
 				"west": {"uv": [16, 0, 0, 16], "texture": "#8", "tintindex": 0},
-				"up": {"uv": [16, 0, 0, 16], "texture": "#8", "tintindex": 0},
+				"up": {"uv": [16, 0, 0, 16], "texture": "#2", "tintindex": 0},
 				"down": {"uv": [16, 0, 0, 16], "texture": "#8", "tintindex": 0}
 			}
 		},
