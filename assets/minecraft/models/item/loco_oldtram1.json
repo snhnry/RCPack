@@ -1,35 +1,22 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
+		"4": "block/iron_block",
 		"particle": "block/gold_block"
 	},
 	"elements": [
 		{
 			"name": "Cube",
-			"from": [4.12134, -7.56256, -13.7],
-			"to": [11.87866, -4.24896, 28],
+			"from": [0.12134, -3.26256, -13.7],
+			"to": [15.87866, -2.94896, 28],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.6672, 5.4512, 10.8]},
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
-			}
-		},
-		{
-			"name": "Cube",
-			"from": [0.12134, -4.26256, -13.7],
-			"to": [15.87866, -3.94896, 28],
-			"rotation": {"angle": 0, "axis": "y", "origin": [5.6672, 5.4512, 10.8]},
-			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#4"}
 			}
 		}
 	],
@@ -76,7 +63,7 @@
 			"name": "Base",
 			"origin": [8, 7.376, 18.8],
 			"color": 0,
-			"children": [0, 1]
+			"children": [0]
 		}
 	]
 }
