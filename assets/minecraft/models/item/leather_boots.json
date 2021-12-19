@@ -118,6 +118,7 @@
 { "predicate": { "custom_model_data": 111}, "model": "item/log_oak2"},
 { "predicate": { "custom_model_data": 112}, "model": "item/liquid_water"},
 { "predicate": { "custom_model_data": 113}, "model": "item/liquid_lava"},
-{ "predicate": { "custom_model_data": 114}, "model": "item/liquid_milk"}
+{ "predicate": { "custom_model_data": 114}, "model": "item/liquid_milk"},
+{ "predicate": { "custom_model_data": 115}, "model": "item/wheel_bogie_trolley"}
 	]
 }
