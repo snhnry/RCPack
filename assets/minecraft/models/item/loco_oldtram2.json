@@ -1,6 +1,7 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
+		"1": "block/cauldron_inner",
 		"particle": "block/light_gray_wool"
 	},
 	"elements": [
@@ -10,18 +11,18 @@
 			"to": [15.87866, -2.94896, 29.7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5.6672, 5.4512, 5.2]},
 			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#missing"},
-				"east": {"uv": [16, 0, 0, 16], "texture": "#missing"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#missing"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#missing"},
-				"up": {"uv": [0, 16, 16, 0], "texture": "#missing"},
-				"down": {"uv": [0, 16, 16, 0], "texture": "#missing"}
+				"north": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#1"},
+				"up": {"uv": [0, 16, 16, 0], "texture": "#1"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#1"}
 			}
 		}
 	],
 	"display": {
 		"head": {
-			"translation": [0, -10, 72.25],
+			"translation": [0, -10, 80],
 			"scale": [5, 5, 5]
 		}
 	},
