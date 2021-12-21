@@ -2,7 +2,7 @@
     "parent": "item/template_spawn_egg",
         "overrides": [
 { "predicate": { "custom_model_data": 1}, "model": "item/sedanwhite"},
-{ "predicate": { "custom_model_data": 2}, "model": "item/convertiblewhite"},
+{ "predicate": { "custom_model_data": 2}, "model": "item/satomobilewhite"},
 { "predicate": { "custom_model_data": 3}, "model": "item/hatchbackwhite"},
 { "predicate": { "custom_model_data": 4}, "model": "item/pickupwhite"},
 { "predicate": { "custom_model_data": 5}, "model": "item/vanwhite"},
