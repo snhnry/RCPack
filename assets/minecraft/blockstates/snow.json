@@ -1,12 +1,14 @@
 {
   "variants": {
     "layers=1": [
-      { "model": "minecraft:block/normal_rail", "weight": 90 },
-	  { "model": "minecraft:block/normal_rail_alt", "weight": 10 }
+      { "model": "minecraft:block/normal_rail", "weight": 80 },
+	  { "model": "minecraft:block/normal_rail_alt", "weight": 10 },
+    { "model": "minecraft:block/normal_rail_alt2", "weight": 10 }
 	],
     "layers=2": [
-      {"model": "minecraft:block/normal_rail", "weight": 90, "y": 90},
-	  {"model": "minecraft:block/normal_rail_alt", "weight": 10, "y": 90}
+      {"model": "minecraft:block/normal_rail", "weight": 80, "y": 90},
+	  {"model": "minecraft:block/normal_rail_alt", "weight": 10, "y": 90},
+    {"model": "minecraft:block/normal_rail_alt2", "weight": 10, "y": 90}
 	],
     "layers=3": {
       "model": "minecraft:block/normal_rail_crossing"
