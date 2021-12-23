@@ -1,0 +1,51 @@
+{
+	"credit": "By Snhnry",
+	"parent": "block/noupculls_cube",
+	"textures": {
+		"1": "block/black_terracotta",
+		"up": "block/smooth_stone",
+		"particle": "block/black_terracotta"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#up"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [16, 16, 6],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "south"}
+			}
+		},
+		{
+			"from": [0, 16, 10],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 6], "texture": "#1", "cullface": "north"}
+			}
+		},
+		{
+			"from": [0, 16, 0],
+			"to": [6, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 6, 16], "texture": "#1", "cullface": "east"}
+			}
+		},
+		{
+			"from": [10, 16, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 6, 16], "texture": "#1", "cullface": "west"}
+			}
+		}
+	]
+}
