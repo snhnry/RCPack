@@ -1,16 +1,7 @@
 {
   "variants": {
-    "axis=x": {
-      "model": "minecraft:block/fire_hydrant",
-      "x": 90,
-      "y": 90
-    },
-    "axis=y": {
-      "model": "minecraft:block/fire_hydrant"
-    },
-    "axis=z": {
-      "model": "minecraft:block/fire_hydrant",
-      "x": -90
+    "": {
+      "model": "minecraft:block/honeycomb_block"
     }
   }
 }
