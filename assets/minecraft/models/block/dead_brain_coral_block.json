@@ -3,7 +3,7 @@
 	"parent": "block/noupculls_cube",
 	"textures": {
 		"1": "block/black_terracotta",
-		"up": "block/smooth_stone",
+		"up": "block/smooth_stone_sidewalk",
 		"particle": "block/black_terracotta"
 	},
 	"elements": [
