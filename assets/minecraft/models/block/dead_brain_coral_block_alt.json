@@ -2,7 +2,7 @@
 	"credit": "By Snhnry",
 	"parent": "block/noupculls_cube",
 	"textures": {
-		"2": "block/sidewalk_edge",
+		"2": "block/sidewalk_edge_alt",
 		"particle": "block/smooth_stone_sidewalk",
 		"up": "block/smooth_stone_sidewalk"
 	},
