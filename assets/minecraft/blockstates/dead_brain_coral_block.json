@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-      { "model": "block/dead_brain_coral_block", "weight": 90 },
-	  { "model": "block/dead_brain_coral_block_alt", "weight": 10 }
+      { "model": "block/dead_brain_coral_block", "weight": 96 },
+	  { "model": "block/dead_brain_coral_block_alt", "weight": 4 }
 	  ]
   }
 }
