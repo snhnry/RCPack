@@ -4,12 +4,12 @@
         "layer0": "item/wooden_hoe"
     },
         "overrides": [
-{ "_predicate": { "custom_model_data": 1}, "model": "item/sedanwhite"},
-{ "_predicate": { "custom_model_data": 2}, "model": "item/sedanblack"},
-{ "_predicate": { "custom_model_data": 3}, "model": "item/sedangray"},
-{ "_predicate": { "custom_model_data": 4}, "model": "item/sedanred"},
-{ "_predicate": { "custom_model_data": 5}, "model": "item/sedanblue"},
-{ "_predicate": { "custom_model_data": 6}, "model": "item/sedanyellow"},
+{ "predicate": { "custom_model_data": 1}, "model": "item/sedanwhite"},
+{ "predicate": { "custom_model_data": 2}, "model": "item/sedanblack"},
+{ "predicate": { "custom_model_data": 3}, "model": "item/sedangray"},
+{ "predicate": { "custom_model_data": 4}, "model": "item/sedanred"},
+{ "predicate": { "custom_model_data": 5}, "model": "item/sedanblue"},
+{ "predicate": { "custom_model_data": 6}, "model": "item/sedanyellow"},
 { "predicate": { "custom_model_data": 7}, "model": "item/satomobilewhite"},
 { "predicate": { "custom_model_data": 8}, "model": "item/satomobileblack"},
 { "predicate": { "custom_model_data": 9}, "model": "item/satomobilegray"},
