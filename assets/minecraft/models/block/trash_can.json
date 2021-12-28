@@ -371,7 +371,7 @@
 			"faces": {
 				"north": {"uv": [12.5, 0, 13.5, 1.5], "texture": "#iron_block"},
 				"east": {"uv": [7.5, 0, 8.5, 1.5], "texture": "#iron_block"},
-				"south": {"uv": [2.5, 0, 3.5, 0], "texture": "#iron_block"},
+				"south": {"uv": [2.5, 0, 3.5, 1.5], "texture": "#iron_block"},
 				"west": {"uv": [7.5, 0, 8.5, 0], "texture": "#iron_block"},
 				"up": {"uv": [2.5, 7.5, 3.5, 8.5], "texture": "#iron_block"}
 			}
