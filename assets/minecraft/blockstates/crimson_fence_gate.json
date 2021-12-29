@@ -3,7 +3,7 @@
     "facing=east,in_wall=false,open=false": {
       "uvlock": true,
       "y": 270,
-      "model": "block/beam_arch"
+      "model": "block/beam_archs"
     },
     "facing=east,in_wall=false,open=true": {
       "uvlock": true,
