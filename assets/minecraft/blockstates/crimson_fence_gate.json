@@ -8,7 +8,7 @@
     "facing=east,in_wall=false,open=true": {
       "uvlock": true,
       "y": 270,
-      "model": "minecraft:block/crimson_fence_gate_open"
+      "model": "block/truss_beam"
     },
     "facing=east,in_wall=true,open=false": {
       "uvlock": true,
@@ -28,7 +28,7 @@
     "facing=north,in_wall=false,open=true": {
       "uvlock": true,
       "y": 180,
-      "model": "minecraft:block/crimson_fence_gate_open"
+      "model": "block/truss_beam"
     },
     "facing=north,in_wall=true,open=false": {
       "uvlock": true,
@@ -46,7 +46,7 @@
     },
     "facing=south,in_wall=false,open=true": {
       "uvlock": true,
-      "model": "minecraft:block/crimson_fence_gate_open"
+      "model": "block/truss_beam"
     },
     "facing=south,in_wall=true,open=false": {
       "uvlock": true,
@@ -64,7 +64,7 @@
     "facing=west,in_wall=false,open=true": {
       "uvlock": true,
       "y": 90,
-      "model": "minecraft:block/crimson_fence_gate_open"
+      "model": "block/truss_beam"
     },
     "facing=west,in_wall=true,open=false": {
       "uvlock": true,
