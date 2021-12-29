@@ -48,8 +48,8 @@
 		},
 		{
 			"name": "wall",
-			"from": [0, 15.5, 5],
-			"to": [16, 16, 11],
+			"from": [0, 13.5, 5],
+			"to": [16, 14, 11],
 			"faces": {
 				"north": {"uv": [0, 0, 8, 0.5], "texture": "#0", "cullface": "up"},
 				"east": {"uv": [0, 0, 6, 0.5], "texture": "#0", "cullface": "up"},
