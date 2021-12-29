@@ -1,6 +1,5 @@
 {
 	"credit": "By Snhnry",
-	"texture_size": [32, 32],
 	"textures": {
 		"0": "block/green_metal",
 		"particle": "block/green_metal"
