@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/iron_block",
 		"iron_block": "block/iron_block",
-		"planks_spruce": "block/spruce_planks"
+		"planks_spruce": "block/dark_oak_planks"
 	},
 	"elements": [
 		{
