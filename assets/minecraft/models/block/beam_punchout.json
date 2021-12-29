@@ -20,7 +20,7 @@
 		},
 		{
 			"name": "wall",
-			"from": [-0.525, 7, 8],
+			"from": [-2.525, 7, 8],
 			"to": [19, 8.5, 8],
 			"rotation": {"angle": -45, "axis": "z", "origin": [8, 8.75, 8]},
 			"faces": {
@@ -35,7 +35,7 @@
 		{
 			"name": "wall",
 			"from": [-2.75, 7, 8],
-			"to": [16.4, 8.5, 8],
+			"to": [18.5, 8.5, 8],
 			"rotation": {"angle": 45, "axis": "z", "origin": [8, 8.75, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 8, 0.5], "texture": "#0", "cullface": "down"},
@@ -48,8 +48,8 @@
 		},
 		{
 			"name": "wall",
-			"from": [0, 13.5, 5],
-			"to": [16, 14, 11],
+			"from": [0, 15.5, 5],
+			"to": [16, 16, 11],
 			"faces": {
 				"north": {"uv": [0, 0, 8, 0.5], "texture": "#0", "cullface": "up"},
 				"east": {"uv": [0, 0, 6, 0.5], "texture": "#0", "cullface": "up"},
