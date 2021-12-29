@@ -7,8 +7,8 @@
 	"elements": [
 		{
 			"name": "wall",
-			"from": [7, 0, 0],
-			"to": [9, 14, 8],
+			"from": [7, 0.5, 0],
+			"to": [9, 13.5, 8],
 			"faces": {
 				"north": {"uv": [0, 7.375, 5.625, 16], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [0, 7.375, 5.625, 16], "texture": "#0"},
@@ -17,8 +17,8 @@
 		},
 		{
 			"name": "wall",
-			"from": [6, 0, 0],
-			"to": [10, 0, 8],
+			"from": [5, 0, 0],
+			"to": [11, 0.5, 8],
 			"faces": {
 				"north": {"uv": [0, 7.375, 5.625, 16], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [0, 7.375, 5.625, 16], "texture": "#0"},
@@ -29,8 +29,8 @@
 		},
 		{
 			"name": "wall",
-			"from": [6, 14, 0],
-			"to": [10, 14, 8],
+			"from": [5, 13.5, 0],
+			"to": [11, 14, 8],
 			"faces": {
 				"north": {"uv": [0, 7.375, 5.625, 16], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [0, 7.375, 5.625, 16], "texture": "#0"},
