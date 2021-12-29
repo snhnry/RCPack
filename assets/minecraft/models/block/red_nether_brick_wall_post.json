@@ -1,0 +1,22 @@
+{
+	"credit": "By Snhnry",
+	"textures": {
+		"0": "block/powerbox",
+		"particle": "block/powerbox"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 0, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 4.125, 5.75, 16], "texture": "#0"},
+				"east": {"uv": [0, 4.125, 5.75, 16], "texture": "#0"},
+				"south": {"uv": [0, 4.125, 5.75, 16], "texture": "#0"},
+				"west": {"uv": [0, 4.125, 5.75, 16], "texture": "#0"},
+				"up": {"uv": [0, 4.125, 5.75, 16], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [0, 4.125, 5.75, 16], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}
