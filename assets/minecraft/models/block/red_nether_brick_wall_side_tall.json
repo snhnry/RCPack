@@ -17,20 +17,18 @@
 		},
 		{
 			"name": "wall",
-			"from": [5, 0.5, 0],
-			"to": [11, 15.5, 0.4],
+			"from": [5, 0, 0],
+			"to": [11, 16, 0.4],
 			"faces": {
 				"north": {"uv": [0, 0, 6, 16], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
 				"south": {"uv": [0, 0, 6, 16], "texture": "#0"},
-				"west": {"uv": [0, 0, 1, 16], "texture": "#0"},
-				"up": {"uv": [0, 0, 0, 0], "texture": "#0"},
-				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+				"west": {"uv": [0, 0, 1, 16], "texture": "#0"}
 			}
 		},
 		{
 			"name": "wall",
-			"from": [5, 0, 0],
+			"from": [5, 0, 0.4],
 			"to": [11, 0.5, 8],
 			"faces": {
 				"north": {"uv": [0, 0, 6, 0.5], "texture": "#0", "cullface": "down"},
@@ -42,7 +40,7 @@
 		},
 		{
 			"name": "wall",
-			"from": [5, 15.5, 0],
+			"from": [5, 15.5, 0.4],
 			"to": [11, 16, 8],
 			"faces": {
 				"north": {"uv": [0, 0, 6, 0.5], "texture": "#0", "cullface": "up"},
