@@ -1,7 +1,7 @@
 {
   "variants": {
     "facing=east,half=bottom,open=false": {
-      "model": "minecraft:block/crimson_trapdoor_bottom",
+      "model": "minecraft:block/normal_rail_powered",
       "y": 90
     },
     "facing=east,half=bottom,open=true": {
@@ -18,7 +18,7 @@
       "y": 270
     },
     "facing=north,half=bottom,open=false": {
-      "model": "minecraft:block/crimson_trapdoor_bottom"
+      "model": "minecraft:block/normal_rail_powered"
     },
     "facing=north,half=bottom,open=true": {
       "model": "minecraft:block/crimson_trapdoor_open"
@@ -32,7 +32,7 @@
       "y": 180
     },
     "facing=south,half=bottom,open=false": {
-      "model": "minecraft:block/crimson_trapdoor_bottom",
+      "model": "minecraft:block/normal_rail_powered",
       "y": 180
     },
     "facing=south,half=bottom,open=true": {
@@ -49,7 +49,7 @@
       "y": 0
     },
     "facing=west,half=bottom,open=false": {
-      "model": "minecraft:block/crimson_trapdoor_bottom",
+      "model": "minecraft:block/normal_rail_powered",
       "y": 270
     },
     "facing=west,half=bottom,open=true": {
