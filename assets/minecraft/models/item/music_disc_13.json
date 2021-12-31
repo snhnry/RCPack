@@ -118,7 +118,7 @@
 				"east": {"uv": [16, 9.5, 0, 10.02], "texture": "#iron_block"},
 				"south": {"uv": [16, 9.5, 17.2375, 10.02], "texture": "#iron_block"},
 				"west": {"uv": [16, 9.5, 0, 10.02], "texture": "#iron_block"},
-				"up": {"uv": [16.2375, 0, 15, 16], "texture": "#iron_block"},
+				"up": {"uv": [16, 0, 14.7625, 16], "texture": "#iron_block"},
 				"down": {"uv": [0, 16, 1.2375, 0], "texture": "#iron_block"}
 			}
 		},
