@@ -1,7 +1,7 @@
 {
   "variants": {
     "facing=down": {
-      "model": "minecraft:block/streetlight_double",
+      "model": "minecraft:block/end_rod",
       "x": 180
     },
     "facing=east": {
@@ -16,7 +16,7 @@
       "y": 180
     },
     "facing=up": {
-      "model": "minecraft:block/streetlight_double"
+      "model": "minecraft:block/end_rod"
     },
     "facing=west": {
       "model": "minecraft:block/pole_lamp",
