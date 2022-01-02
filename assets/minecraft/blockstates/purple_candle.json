@@ -1,33 +1,33 @@
 {
     "variants": {
       "candles=1,lit=false": {
-        "model": "minecraft:block/streetlight_double"
+        "model": "block/streetlight_double"
       },
       "candles=1,lit=true": {
-        "model": "minecraft:block/streetlight_double"
+        "model": "block/streetlight_double"
       },
       "candles=2,lit=false": {
-        "model": "minecraft:block/streetlight_double_angled",
+        "model": "block/streetlight_double_angled",
         "y": "90"
       },
       "candles=2,lit=true": {
-        "model": "minecraft:block/streetlight_double_angled",
+        "model": "block/streetlight_double_angled",
         "y": "90"
       },
       "candles=3,lit=false": {
-        "model": "minecraft:block/streetlight_double",
+        "model": "block/streetlight_double",
         "y": "180"
       },
       "candles=3,lit=true": {
-        "model": "minecraft:block/streetlight_double",
+        "model": "block/streetlight_double",
         "y": "180"
       },
       "candles=4,lit=false": {
-        "model": "minecraft:block/streetlight_double_angled",
+        "model": "block/streetlight_double_angled",
         "y": "270"
       },
       "candles=4,lit=true": {
-        "model": "minecraft:block/streetlight_double_angled",
+        "model": "block/streetlight_double_angled",
         "y": "270"
       }
     }
