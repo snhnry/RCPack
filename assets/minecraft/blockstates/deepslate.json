@@ -3,7 +3,7 @@
     "axis=x": [
       {
         "model": "minecraft:block/custom/box_stack",
-        "x": 90
+        "y": 90
       }
     ],
     "axis=y": [
