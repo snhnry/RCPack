@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "minecraft:block/box_stack",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 90,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 90,
+        "x": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "minecraft:block/box_stack"
+      },
+      {
+        "model": "minecraft:block/box_stack"
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "minecraft:block/box_stack",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 180,
+        "x": 90
+      },
+      {
+        "model": "minecraft:block/box_stack",
+        "y": 180,
+        "x": 90
+      }
+    ]
+  }
+}
