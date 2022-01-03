@@ -1,7 +1,6 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
-		"0": "block/gray_terracotta",
 		"3": "block/rope_net",
 		"4": "block/rope_net_side",
 		"particle": "block/dark_oak_planks",
@@ -68,7 +67,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [17.21586, 29.5497, 8.5]},
 			"faces": {
 				"east": {"uv": [0, 16, 3.3, 0], "rotation": 90, "texture": "#4"},
-				"west": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#0"}
+				"west": {"uv": [16, 0, 0, 3.3], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -77,7 +76,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [17.21586, 29.5497, 7.5]},
 			"faces": {
 				"east": {"uv": [0, 0, 3.3, 16], "rotation": 90, "texture": "#4"},
-				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+				"west": {"uv": [0, 0, 3.3, 16], "rotation": 90, "texture": "#3"}
 			}
 		},
 		{
@@ -86,7 +85,7 @@
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [17.21586, 29.5497, 7.5]},
 			"faces": {
 				"east": {"uv": [0, 0, 3.3, 16], "rotation": 90, "texture": "#4"},
-				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"}
+				"west": {"uv": [0, 0, 16, 3.3], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -94,7 +93,7 @@
 			"to": [-16, 26.21798, 32],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [-1.21586, 29.5497, 7.5]},
 			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [16, 0, 0, 3.3], "rotation": 180, "texture": "#4"},
 				"west": {"uv": [0, 16, 3.3, 0], "rotation": 90, "texture": "#4"}
 			}
 		},
@@ -103,7 +102,7 @@
 			"to": [-16, 26.21798, 16],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [-1.21586, 29.5497, 7.5]},
 			"faces": {
-				"east": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 16, 3.3, 0], "rotation": 90, "texture": "#3"},
 				"west": {"uv": [0, 16, 3.3, 0], "rotation": 90, "texture": "#4"}
 			}
 		},
@@ -112,7 +111,7 @@
 			"to": [-16, 26.21798, 0],
 			"rotation": {"angle": -22.5, "axis": "z", "origin": [-1.21586, 29.5497, 8.5]},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 3.3], "rotation": 180, "texture": "#4"},
 				"west": {"uv": [0, 0, 3.3, 16], "rotation": 90, "texture": "#4"}
 			}
 		},
@@ -1575,7 +1574,8 @@
 			"from": [16, 32, 16],
 			"to": [32, 32, 32],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#4"}
 			}
 		},
 		{
@@ -1589,21 +1589,24 @@
 			"from": [16, 32, -16],
 			"to": [32, 32, 0],
 			"faces": {
-				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"}
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
 			}
 		},
 		{
 			"from": [0, 32, -16],
 			"to": [16, 32, 0],
 			"faces": {
-				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"}
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
 			}
 		},
 		{
 			"from": [0, 32, 16],
 			"to": [16, 32, 32],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#4"}
 			}
 		},
 		{
@@ -1617,14 +1620,16 @@
 			"from": [-16, 32, -16],
 			"to": [0, 32, 0],
 			"faces": {
-				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"}
+				"up": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
 			}
 		},
 		{
 			"from": [-16, 32, 16],
 			"to": [0, 32, 32],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"}
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#4"}
 			}
 		},
 		{
