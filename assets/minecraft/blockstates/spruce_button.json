@@ -1,19 +1,57 @@
 {
     "variants": {
-      "face=floor,facing=east,powered=true": {
-        "model": "block/custom/ground_logs1",
-        "y": 90
-      },
-      "face=floor,facing=north,powered=true": {
-        "model": "block/custom/ground_logs1"
-      },
-      "face=floor,facing=south,powered=true": {
-        "model": "block/custom/ground_logs1",
-        "y": 180
-      },
-      "face=floor,facing=west,powered=true": {
-        "model": "block/custom/ground_logs1",
-        "y": 270
-      }
+      "face=floor,facing=east,powered=true": [
+        {"model": "block/custom/ground_logs1",
+        "y": 90,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs2",
+        "y": 90,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs3",
+        "y": 90,
+        "weight": 1
+        }     
+      ],
+      "face=floor,facing=north,powered=true": [
+        {"model": "block/custom/ground_logs1",
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs2",
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs3",
+        "weight": 1
+        }     
+      ],
+      "face=floor,facing=south,powered=true": [
+        {"model": "block/custom/ground_logs1",
+        "y": 180,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs2",
+        "y": 180,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs3",
+        "y": 180,
+        "weight": 1
+        }     
+      ],
+      "face=floor,facing=west,powered=true": [
+        {"model": "block/custom/ground_logs1",
+        "y": 270,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs2",
+        "y": 270,
+        "weight": 1
+        },
+        {"model": "block/custom/ground_logs3",
+        "y": 270,
+        "weight": 1
+        }     
+      ]
     }
   }
