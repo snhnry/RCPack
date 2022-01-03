@@ -2,11 +2,14 @@
     "variants": {
       "": [
         {"model": "block/custom/crate1",
-        "weight": 1
+        "weight": 5
         },
         {"model": "block/custom/crate1",
-        "weight": 1,
+        "weight": 5,
         "y": 90
+        },
+        {"model": "block/custom/crate3",
+          "weight": 1
         }  
       ]
     }
