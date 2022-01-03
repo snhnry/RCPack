@@ -2,19 +2,36 @@
     "variants": {
       "": [
         {"model": "block/custom/crate1",
-        "weight": 4
+        "weight": 5
         },
         {"model": "block/custom/crate1",
-        "weight": 4,
+        "weight": 5,
         "y": 90
         },
+
+
         {"model": "block/custom/crate2",
         "weight": 1,
         "y": 90
         },
         {"model": "block/custom/crate2",
+          "weight": 1,
+          "y": 180
+        },
+        {"model": "block/custom/crate2",
+          "weight": 1,
+          "y": 270
+          },
+        {"model": "block/custom/crate2",
         "weight": 1
-        },   
+        },
+        
+        
+
+        {"model": "block/custom/crate3",
+          "weight": 1,
+          "y": 270
+          },        
         {"model": "block/custom/crate3",
         "weight": 1
         },
