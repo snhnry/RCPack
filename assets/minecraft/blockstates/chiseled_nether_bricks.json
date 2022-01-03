@@ -1,0 +1,16 @@
+{
+    "variants": {
+      "": [
+        {"model": "block/custom/crate1",
+        "weight": 1
+        },
+        {"model": "block/custom/crate1",
+        "weight": 1,
+        "y": 90
+        },
+        {"model": "block/custom/ground_logs3",
+        "weight": 1
+        }     
+      ]
+    }
+  }
