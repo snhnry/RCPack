@@ -9,12 +9,14 @@
         "model": "block/custom/barrel_open"
       },
       "facing=east,open=false": {
+        "x": 90,
         "y": 90,
-        "model": "block/custom/barrel_side"
+        "model": "block/custom/barrel"
       },
       "facing=east,open=true": {
+        "x": 90,
         "y": 90,
-        "model": "block/custom/barrel_side_open"
+        "model": "block/custom/barrel_open"
       },
       "facing=north,open=false": {
         "x": 90,
@@ -25,12 +27,14 @@
         "model": "block/custom/barrel_open"
       },
       "facing=south,open=false": {
+        "x": 90,
         "y": 180,
-        "model": "block/custom/barrel_side"
+        "model": "block/custom/barrel"
       },
       "facing=south,open=true": {
+        "x": 90,
         "y": 180,
-        "model": "block/custom/barrel_side_open"
+        "model": "block/custom/barrel_open"
       },
       "facing=up,open=false": {
         "model": "block/custom/barrel"
@@ -39,12 +43,14 @@
         "model": "block/custom/barrel_open"
       },
       "facing=west,open=false": {
+        "x": 90,
         "y": 270,
-        "model": "block/custom/barrel_side"
+        "model": "block/custom/barrel"
       },
       "facing=west,open=true": {
+        "x": 90,
         "y": 270,
-        "model": "block/custom/barrel_side_open"
+        "model": "block/custom/barrel_open"
       }
     }
   }
