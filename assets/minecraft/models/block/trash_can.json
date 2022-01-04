@@ -15,7 +15,6 @@
 				"east": {"uv": [0, 1, 12, 15], "texture": "#texture"},
 				"south": {"uv": [0, 1, 12, 15], "texture": "#texture"},
 				"west": {"uv": [0, 1, 12, 15], "texture": "#texture"},
-				"up": {"uv": [0, 1, 12, 15], "texture": "#iron_block", "cullface": "up"},
 				"down": {"uv": [0, 1, 12, 15], "texture": "#iron_block", "cullface": "down"}
 			}
 		},
