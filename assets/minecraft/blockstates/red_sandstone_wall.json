@@ -110,6 +110,14 @@
         "uvlock": false
       }
     },
+  	{
+      "when": {
+        "north": "none", "south": "low", "east": "low", "west": "low", "up": "true"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_triple"
+      }
+    },
 	{
       "when": {
         "north": "none", "south": "none", "east": "low", "west": "low", "up": "true"
