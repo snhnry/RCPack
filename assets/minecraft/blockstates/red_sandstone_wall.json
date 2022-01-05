@@ -115,7 +115,8 @@
         "north": "none", "south": "low", "east": "low", "west": "low", "up": "true"
       },
       "apply": {
-        "model": "minecraft:block/4wire_pole_triple"
+        "model": "minecraft:block/4wire_pole_triple",
+        "y": 180
       }
     },
 	{
