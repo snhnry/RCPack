@@ -1,0 +1,26 @@
+{
+    "variants": {
+      "facing=down": {
+        "model": "minecraft:block/industrial_door",
+        "x": 180
+      },
+      "facing=east": {
+        "model": "minecraft:block/industrial_door",
+        "y": 90
+      },
+      "facing=north": {
+        "model": "minecraft:block/industrial_door"
+      },
+      "facing=south": {
+        "model": "minecraft:block/industrial_door",
+        "y": 180
+      },
+      "facing=up": {
+        "model": "minecraft:block/industrial_door"
+      },
+      "facing=west": {
+        "model": "minecraft:block/industrial_door",
+        "y": 270
+      }
+    }
+  }
