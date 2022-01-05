@@ -119,6 +119,14 @@
         "y": 180
       }
     },
+    {
+      "when": {
+        "north": "tall", "south": "tall", "east": "tall", "west": "tall", "up": "false"
+      },
+      "apply": {
+        "model": "minecraft:block/4wire_pole_quad"
+      }
+    },
 	{
       "when": {
         "north": "none", "south": "none", "east": "low", "west": "low", "up": "true"
