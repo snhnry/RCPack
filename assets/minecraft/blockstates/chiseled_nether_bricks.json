@@ -2,10 +2,10 @@
     "variants": {
       "": [
         {"model": "block/custom/crate1",
-        "weight": 10
+        "weight": 50
         },
         {"model": "block/custom/crate1",
-        "weight": 10,
+        "weight": 50,
         "y": 90
         },
 
