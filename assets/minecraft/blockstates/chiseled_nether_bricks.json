@@ -25,7 +25,23 @@
         {"model": "block/custom/crate2",
         "weight": 1
         },
-        
+ 
+        {"model": "block/custom/crate5",
+          "weight": 1,
+          "y": 90
+          },
+          {"model": "block/custom/crate5",
+            "weight": 1,
+            "y": 180
+          },
+          {"model": "block/custom/crate5",
+            "weight": 1,
+            "y": 270
+            },
+          {"model": "block/custom/crate5",
+          "weight": 1
+          },        
+
         {"model": "block/custom/crate4",
           "weight": 1,
           "y": 90
