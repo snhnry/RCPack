@@ -205,8 +205,9 @@
 			"translation": [-14.5, 0, -0.25]
 		},
 		"fixed": {
-			"translation": [0, 0, -3.75],
-			"scale": [0.4, 0.4, 0.4]
+			"rotation": [-90, 0, 0],
+			"translation": [0, -1.25, -3.75],
+			"scale": [2, 2, 2]
 		}
 	}
 }
