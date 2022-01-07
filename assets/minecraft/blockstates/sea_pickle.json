@@ -24,19 +24,8 @@
     ],
     "pickles=2,waterlogged=false": [
       {
-        "model": "minecraft:block/two_dead_sea_pickles"
-      },
-      {
-        "model": "minecraft:block/two_dead_sea_pickles",
+        "model": "minecraft:block/custom/road_slope",
         "y": 90
-      },
-      {
-        "model": "minecraft:block/two_dead_sea_pickles",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/two_dead_sea_pickles",
-        "y": 270
       }
     ],
     "pickles=2,waterlogged=true": [
