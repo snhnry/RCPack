@@ -3,18 +3,6 @@
     "pickles=1,waterlogged=false": [
       {
         "model": "minecraft:block/custom/road_slope"
-      },
-      {
-        "model": "minecraft:block/custom/road_slope",
-        "y": 90
-      },
-      {
-        "model": "minecraft:block/custom/road_slope",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/custom/road_slope",
-        "y": 270
       }
     ],
     "pickles=1,waterlogged=true": [
