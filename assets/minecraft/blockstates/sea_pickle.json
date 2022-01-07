@@ -47,19 +47,8 @@
     ],
     "pickles=3,waterlogged=false": [
       {
-        "model": "minecraft:block/three_dead_sea_pickles"
-      },
-      {
-        "model": "minecraft:block/three_dead_sea_pickles",
-        "y": 90
-      },
-      {
-        "model": "minecraft:block/three_dead_sea_pickles",
+        "model": "minecraft:block/custom/road_slope",
         "y": 180
-      },
-      {
-        "model": "minecraft:block/three_dead_sea_pickles",
-        "y": 270
       }
     ],
     "pickles=3,waterlogged=true": [
@@ -81,18 +70,7 @@
     ],
     "pickles=4,waterlogged=false": [
       {
-        "model": "minecraft:block/four_dead_sea_pickles"
-      },
-      {
-        "model": "minecraft:block/four_dead_sea_pickles",
-        "y": 90
-      },
-      {
-        "model": "minecraft:block/four_dead_sea_pickles",
-        "y": 180
-      },
-      {
-        "model": "minecraft:block/four_dead_sea_pickles",
+        "model": "minecraft:block/custom/road_slope",
         "y": 270
       }
     ],
