@@ -1,8 +1,7 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
-		"3": "block/tripwire",
-		"particle": "block/powerbox"
+		"3": "block/tripwire"
 	},
 	"elements": [
 		{
