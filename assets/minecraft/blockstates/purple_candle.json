@@ -4,7 +4,7 @@
         "model": "block/streetlight_double_angled"
       },
       "candles=1,lit=true": {
-        "model": "block/streetlight_double"
+        "model": "block/streetlight_double_angled"
       },
       "candles=2,lit=false": {
         "model": "block/streetlight_double_angled",
