@@ -5,21 +5,21 @@
       "x": 180
     },
     "facing=east": {
-      "model": "minecraft:block/pole_lamp",
+      "model": "minecraft:block/rc_street_pole_lamp",
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:block/pole_lamp"
+      "model": "minecraft:block/rc_street_pole_lamp"
     },
     "facing=south": {
-      "model": "minecraft:block/pole_lamp",
+      "model": "minecraft:block/rc_street_pole_lamp",
       "y": 180
     },
     "facing=up": {
       "model": "minecraft:block/end_rod"
     },
     "facing=west": {
-      "model": "minecraft:block/pole_lamp",
+      "model": "minecraft:block/rc_street_pole_lamp",
       "y": 270
     }
   }
