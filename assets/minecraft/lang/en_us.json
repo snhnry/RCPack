@@ -1546,7 +1546,7 @@
   "block.minecraft.amethyst_block": "Block of Amethyst",
   "block.minecraft.small_amethyst_bud": "Small Amethyst Bud",
   "block.minecraft.medium_amethyst_bud": "Large Open Wooden Doors *",
-  "block.minecraft.large_amethyst_bud": "Large Amethyst Bud",
+  "block.minecraft.large_amethyst_bud": "Large Closed Wooden Doors *",
   "block.minecraft.amethyst_cluster": "Amethyst Cluster",
   "block.minecraft.budding_amethyst": "Budding Amethyst",
   "item.minecraft.name_tag": "Name Tag",
