@@ -1,11 +1,24 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
+		"2": "block/stone",
 		"4": "block/nether_bricks",
 		"particle": "block/iron_block",
 		"iron_block": "block/iron_block"
 	},
 	"elements": [
+		{
+			"from": [16, 0, -8],
+			"to": [24, 4, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 8, 4], "texture": "#2"},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#2"}
+			}
+		},
 		{
 			"from": [4.70496, 3.6225, -7.47298],
 			"to": [5.44246, 4.1425, 10.72702],
@@ -338,10 +351,10 @@
 					"origin": [19.8, 3.96, -4],
 					"color": 0,
 					"children": []
-				}
+				},
+				0
 			]
 		},
-		0,
 		1,
 		2,
 		3,
@@ -358,6 +371,7 @@
 		14,
 		15,
 		16,
-		17
+		17,
+		18
 	]
 }
