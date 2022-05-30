@@ -43,7 +43,8 @@
       "y": 90
     },
     "face=floor,facing=east,powered=true": {
-      "model": "minecraft:block/custom/rail_diamond",
+      "model": "minecraft:block/custom/rail_street_grass",
+	  "y": 90,
       "uvlock": true
     },
     "face=floor,facing=north,powered=false": {
@@ -58,7 +59,7 @@
       "y": 180
     },
     "face=floor,facing=south,powered=true": {
-      "model": "minecraft:block/custom/rail_diamond_grass",
+      "model": "minecraft:block/custom/rail_street_grass",
       "uvlock": true
     },
     "face=floor,facing=west,powered=false": {
@@ -67,7 +68,7 @@
     },
     "face=floor,facing=west,powered=true": {
       "model": "minecraft:block/custom/rail_street",
-      "y": 270,
+      "y": 90,
 	  "uvlock": true
     },
     "face=wall,facing=east,powered=false": {
