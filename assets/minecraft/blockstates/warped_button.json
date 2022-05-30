@@ -50,7 +50,8 @@
       "model": "minecraft:block/warped_button"
     },
     "face=floor,facing=north,powered=true": {
-      "model": "minecraft:block/warped_button_pressed"
+      "model": "minecraft:block/custom/rail_street",
+	  "uvlock": true
     },
     "face=floor,facing=south,powered=false": {
       "model": "minecraft:block/warped_button",
