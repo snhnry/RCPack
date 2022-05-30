@@ -76,38 +76,30 @@
       "y": 90
     },
     "face=wall,facing=east,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 90,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_right",
+      "y": 90
     },
     "face=wall,facing=north,powered=false": {
       "model": "minecraft:block/custom/rail_street_switch_left"
     },
     "face=wall,facing=north,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_right"
     },
     "face=wall,facing=south,powered=false": {
       "model": "minecraft:block/custom/rail_street_switch_left",
       "y": 180
     },
     "face=wall,facing=south,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 180,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_right",
+      "y": 180
     },
     "face=wall,facing=west,powered=false": {
       "model": "minecraft:block/custom/rail_street_switch_left",
       "y": 270
     },
     "face=wall,facing=west,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 270,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_right",
+      "y": 270
     }
   }
 }
