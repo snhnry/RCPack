@@ -72,10 +72,8 @@
 	  "uvlock": true
     },
     "face=wall,facing=east,powered=false": {
-      "model": "minecraft:block/warped_button",
-      "y": 90,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_left",
+      "y": 90
     },
     "face=wall,facing=east,powered=true": {
       "model": "minecraft:block/warped_button_pressed",
@@ -84,9 +82,7 @@
       "uvlock": true
     },
     "face=wall,facing=north,powered=false": {
-      "model": "minecraft:block/warped_button",
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_left"
     },
     "face=wall,facing=north,powered=true": {
       "model": "minecraft:block/warped_button_pressed",
@@ -94,10 +90,8 @@
       "uvlock": true
     },
     "face=wall,facing=south,powered=false": {
-      "model": "minecraft:block/warped_button",
-      "y": 180,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_left",
+      "y": 180
     },
     "face=wall,facing=south,powered=true": {
       "model": "minecraft:block/warped_button_pressed",
@@ -106,10 +100,8 @@
       "uvlock": true
     },
     "face=wall,facing=west,powered=false": {
-      "model": "minecraft:block/warped_button",
-      "y": 270,
-      "x": 90,
-      "uvlock": true
+      "model": "minecraft:block/custom/rail_street_switch_left",
+      "y": 270
     },
     "face=wall,facing=west,powered=true": {
       "model": "minecraft:block/warped_button_pressed",
