@@ -40,8 +40,7 @@
     },
     "face=floor,facing=east,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve",
-      "y": 90,
-	  "uvlock": true
+      "y": 90
     },
     "face=floor,facing=east,powered=true": {
       "model": "minecraft:block/custom/rail_street_grass",
@@ -49,8 +48,7 @@
       "uvlock": true
     },
     "face=floor,facing=north,powered=false": {
-      "model": "minecraft:block/custom/rail_street_curve",
-	  "uvlock": true
+      "model": "minecraft:block/custom/rail_street_curve"
     },
     "face=floor,facing=north,powered=true": {
       "model": "minecraft:block/custom/rail_street",
@@ -58,8 +56,7 @@
     },
     "face=floor,facing=south,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve",
-      "y": 180,
-	  "uvlock": true
+      "y": 180
     },
     "face=floor,facing=south,powered=true": {
       "model": "minecraft:block/custom/rail_street_grass",
@@ -67,8 +64,7 @@
     },
     "face=floor,facing=west,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve",
-      "y": 270,
-	  "uvlock": true
+      "y": 270
     },
     "face=floor,facing=west,powered=true": {
       "model": "minecraft:block/custom/rail_street",
