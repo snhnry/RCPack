@@ -5,34 +5,29 @@
       "y": 270
     },
     "face=ceiling,facing=east,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 270,
-      "x": 180
+      "model": "minecraft:block/custom/rail_diamond",
+      "uvlock": true
     },
     "face=ceiling,facing=north,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve_grass"
     },
     "face=ceiling,facing=north,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 180,
-      "x": 180
+      "model": "minecraft:block/custom/rail_diamond_grass",
+      "uvlock": true
     },
     "face=ceiling,facing=south,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve_grass",
       "y": 180
     },
     "face=ceiling,facing=south,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "x": 180
+      "model": "minecraft:block/custom/rail_street_switch_left_grass"
     },
     "face=ceiling,facing=west,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve_grass",
       "y": 90
     },
     "face=ceiling,facing=west,powered=true": {
-      "model": "minecraft:block/warped_button_pressed",
-      "y": 90,
-      "x": 180
+      "model": "minecraft:block/custom/rail_street_switch_right_grass"
     },
     "face=floor,facing=east,powered=false": {
       "model": "minecraft:block/custom/rail_street_curve",
