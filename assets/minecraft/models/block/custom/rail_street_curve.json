@@ -1,5 +1,6 @@
 {
 	"credit": "By Snhnry",
+	"ambientocclusion": false,
 	"textures": {
 		"grass_block": "block/stone",
 		"particle": "block/iron_block",
