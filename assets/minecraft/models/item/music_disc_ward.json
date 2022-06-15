@@ -3,7 +3,7 @@
 	"textures": {
 		"4": "block/stone",
 		"5": "block/nether_bricks",
-		"6": "block/sponge",
+		"6": "block/access_hatch",
 		"particle": "block/iron_block",
 		"iron_block": "block/iron_block"
 	},
