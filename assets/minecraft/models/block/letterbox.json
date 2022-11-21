@@ -319,5 +319,22 @@
 				"down": {"uv": [0, 9, 16, 0], "rotation": 90, "texture": "#5"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [46, 37, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [46, 37, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.26, 0.26, 0.26]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [0.44, 0.44, 0.44]
+		}
+	}
 }
