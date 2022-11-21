@@ -7,6 +7,7 @@
 		"4": "block/yellow_concrete",
 		"5": "block/black_concrete",
 		"6": "block/rc_logo",
+		"7": "block/mail",
 		"particle": "block/light_gray_concrete"
 	},
 	"elements": [
@@ -280,6 +281,19 @@
 			"rotation": {"angle": 0, "axis": "z", "origin": [-1.54204, 8.40848, 8.025]},
 			"faces": {
 				"west": {"uv": [16, 0, 0, 16], "texture": "#6"}
+			}
+		},
+		{
+			"from": [3.90796, 15.45848, 5.5],
+			"to": [3.90796, 20.15848, 10.5],
+			"rotation": {"angle": 0, "axis": "z", "origin": [-1.54204, 8.40848, 8.025]},
+			"faces": {
+				"north": {"uv": [3, 4, 3.5, 4.5], "texture": "#7"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#7"},
+				"south": {"uv": [3, 4, 3.5, 4.5], "texture": "#7"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#7"},
+				"up": {"uv": [7, 8, 12, 8.5], "rotation": 90, "texture": "#7"},
+				"down": {"uv": [3, 4, 8, 4.5], "rotation": 270, "texture": "#7"}
 			}
 		},
 		{
