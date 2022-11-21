@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/letterbox",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/letterbox",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/letterbox"
+    },
+    "facing=west": {
+      "model": "minecraft:block/letterbox",
+      "y": 90
+    }
+  }
+}
