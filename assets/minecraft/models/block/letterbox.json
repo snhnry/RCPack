@@ -2,9 +2,9 @@
 	"credit": "By Snhnry",
 	"textures": {
 		"1": "block/dark_oak_planks",
-		"2": "block/green_concrete_powder",
+		"2": "block/red_concrete_powder",
 		"3": "block/gray_shulker_box",
-		"4": "block/red_concrete_powder",
+		"4": "block/yellow_concrete",
 		"5": "block/black_concrete",
 		"6": "block/rc_logo",
 		"particle": "block/light_gray_concrete"
@@ -28,7 +28,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 13.92083, 8.025]},
 			"faces": {
 				"north": {"uv": [10, 0, 0, 1], "texture": "#2"},
-				"east": {"uv": [16, 0, 0, 1], "texture": "#2"},
+				"east": {"uv": [0, 16, 1, 0], "rotation": 270, "texture": "#2"},
 				"south": {"uv": [10, 0, 0, 1], "texture": "#2"},
 				"west": {"uv": [16, 0, 0, 1], "texture": "#2"},
 				"up": {"uv": [0, 10, 16, 0], "rotation": 90, "texture": "#2"},
