@@ -1235,7 +1235,7 @@
   "block.minecraft.enchanting_table": "Enchanting Table",
   "block.minecraft.anvil": "Anvil",
   "block.minecraft.chipped_anvil": "Chipped Anvil",
-  "block.minecraft.damaged_anvil": "Damaged Anvil",
+  "block.minecraft.damaged_anvil": "Mail Dropbox *",
   "block.minecraft.end_stone": "End Stone",
   "block.minecraft.end_portal_frame": "Large Garbage Can *",
   "block.minecraft.mycelium": "Mycelium",
