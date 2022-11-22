@@ -3,6 +3,6 @@
     "": [
 	{  "model": "minecraft:block/waste_paper" },
 	{  "model": "minecraft:block/waste_paper", "y": 90 }
-    [
+    ]
   }
 }
