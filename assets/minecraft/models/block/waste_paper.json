@@ -3,6 +3,7 @@
 	"textures": {
 		"0": "block/copper_block",
 		"1": "block/black_concrete",
+		"2": "block/cut_copper",
 		"particle": "block/copper_block"
 	},
 	"elements": [
@@ -16,6 +17,31 @@
 				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.6, 5, 3],
+			"to": [1, 13, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 0.4, 8], "texture": "#2"},
+				"east": {"uv": [0, 0, 10, 8], "texture": "#2"},
+				"south": {"uv": [0, 0, 0.4, 8], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 0.4, 10], "texture": "#2"},
+				"down": {"uv": [0, 0, 0.4, 10], "texture": "#2"}
+			}
+		},
+		{
+			"from": [15, 5, 3],
+			"to": [15.4, 13, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 0]},
+			"faces": {
+				"north": {"uv": [0.4, 0, 0, 8], "texture": "#2"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"south": {"uv": [0.4, 0, 0, 8], "texture": "#2"},
+				"west": {"uv": [10, 0, 0, 8], "texture": "#2"},
+				"up": {"uv": [0.4, 0, 0, 10], "texture": "#2"},
+				"down": {"uv": [0.4, 0, 0, 10], "texture": "#2"}
 			}
 		},
 		{
