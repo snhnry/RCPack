@@ -4,7 +4,6 @@
 		"0": "block/copper_block",
 		"1": "block/black_concrete",
 		"2": "block/cut_copper",
-		"3": "block/rc_logo_alpha",
 		"4": "block/waste_text",
 		"particle": "block/copper_block"
 	},
@@ -33,14 +32,6 @@
 			"to": [13.5, 20.3, 14.1],
 			"faces": {
 				"south": {"uv": [0, 0, 16, 16], "texture": "#4"}
-			}
-		},
-		{
-			"from": [10.5, 4.3, 14.1],
-			"to": [14.5, 8.3, 14.1],
-			"faces": {
-				"north": {"uv": [0, 0, 0, 0], "texture": "#4"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#3"}
 			}
 		},
 		{
