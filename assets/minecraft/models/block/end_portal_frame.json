@@ -5,6 +5,7 @@
 		"2": "block/green_concrete",
 		"4": "block/light_gray_concrete",
 		"5": "block/white_concrete",
+		"6": "block/smooth_stone_sidewalk",
 		"particle": "block/green_concrete",
 		"inside": "block/hopper_inside"
 	},
@@ -166,6 +167,13 @@
 				"south": {"uv": [0, 0, 1, 1], "texture": "#inside"},
 				"west": {"uv": [0, 0, 1, 1], "texture": "#inside"},
 				"down": {"uv": [0, 0, 1, 1], "texture": "#inside"}
+			}
+		},
+		{
+			"from": [0, -1, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#6"}
 			}
 		}
 	],
