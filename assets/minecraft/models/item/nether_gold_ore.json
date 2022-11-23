@@ -1,7 +1,3 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/facade_cross_circle"
-    }
-  }
+  "parent": "minecraft:block/facade_cross_circle"
 }
