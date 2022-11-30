@@ -52,6 +52,19 @@
 				"west": {"uv": [6.5, 0, 7.5, 16], "texture": "#0"},
 				"down": {"uv": [7.5, 8.5, 8.5, 9.5], "texture": "#0"}
 			}
+		},
+		{
+			"name": "Center post",
+			"from": [7.5, 1.5, 1],
+			"to": [8.5, 2.5, 8],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 8, 7]},
+			"faces": {
+				"east": {"uv": [8.5, 0, 9.5, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7.5, 8.5, 8.5, 9.5], "texture": "#0"},
+				"west": {"uv": [6.5, 0, 7.5, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7.5, 0, 8.5, 16], "texture": "#0"},
+				"down": {"uv": [7.5, 0, 8.5, 16], "rotation": 180, "texture": "#0"}
+			}
 		}
 	]
 }
