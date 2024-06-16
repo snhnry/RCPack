@@ -1,9 +1,9 @@
 {
 	"credit": "By Snhnry",
 	"textures": {
-		"0": "custom/amonposter",
+		"0": "block/amonposter",
 		"1": "block/dark_oak_planks",
-		"particle": "custom/amonposter"
+		"particle": "block/amonposter"
 	},
 	"elements": [
 		{
