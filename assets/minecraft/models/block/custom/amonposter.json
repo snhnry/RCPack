@@ -1,0 +1,23 @@
+{
+	"credit": "By Snhnry",
+	"textures": {
+		"0": "custom/amonposter",
+		"1": "block/dark_oak_planks",
+		"particle": "custom/amonposter"
+	},
+	"elements": [
+		{
+			"from": [-8, -16, 8],
+			"to": [24, 32, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [22, -16, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 1, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 1], "texture": "#missing"}
+			}
+		}
+	]
+}
