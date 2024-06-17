@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/discord.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				"🀄"
+			]
+		}
+	]
+}
