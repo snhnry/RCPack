@@ -2,8 +2,8 @@
 	"credit": "By Snhnry",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom/signs/tourist_info",
-		"particle": "custom/signs/tourist_info"
+		"0": "custom:signs/tourist_info",
+		"particle": "custom:signs/tourist_info"
 	},
 	"elements": [
 		{
