@@ -122,6 +122,7 @@
 		{"predicate": {"custom_model_data": 114}, "model": "item/liquid_milk"},
 		{"predicate": {"custom_model_data": 115}, "model": "item/wheel_bogie_trolley"},
 		{"predicate": {"custom_model_data": 116}, "model": "item/wheel_bogie_thirdrail"},
-		{"model": "block/custom/amonposter", "predicate": {"custom_model_data": 117}}
+		{"model": "block/custom/amonposter", "predicate": {"custom_model_data": 117}},
+		{"model": "block/custom/tourist_info", "predicate": {"custom_model_data": 118}}
 	]
 }
