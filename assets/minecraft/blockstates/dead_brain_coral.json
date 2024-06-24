@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-	{  "model": "minecraft:block/waste_paper" },
-	{  "model": "minecraft:block/waste_paper", "y": 90 }
+	{  "model": "minecraft:custom/street/waste_paper" },
+	{  "model": "minecraft:custom/street/waste_paper", "y": 90 }
     ]
   }
 }
