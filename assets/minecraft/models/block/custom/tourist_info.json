@@ -2,14 +2,14 @@
 	"credit": "By Snhnry",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom:signs/tourist_info",
-		"particle": "custom:signs/tourist_info"
+		"0": "custom/signs/tourist_info",
+		"particle": "custom/signs/tourist_info"
 	},
 	"elements": [
 		{
-			"from": [0, 0, -5],
-			"to": [0, 16, 32],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 6, 0]},
+			"from": [8, 0, -11],
+			"to": [8, 16, 26],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, -6]},
 			"faces": {
 				"east": {"uv": [0, 0, 9.25, 4], "texture": "#0"},
 				"west": {"uv": [0, 4, 9.25, 8], "texture": "#0"}
