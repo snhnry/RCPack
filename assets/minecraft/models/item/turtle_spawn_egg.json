@@ -1,5 +1,5 @@
 {
-    "parent": "items/template_spawn_egg",
+    "parent": "item/template_spawn_egg",
         "overrides": [
 { "predicate": { "custom_model_data": 7}, "model": "custom/vehicles/loco_steam1"},
 { "predicate": { "custom_model_data": 8}, "model": "custom/vehicles/loco_diesel1"},
