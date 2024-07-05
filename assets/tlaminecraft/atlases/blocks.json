@@ -8,7 +8,7 @@
         {
             "type": "directory",
             "source": "items",
-            "prefix": "item/"
+            "prefix": "items/"
         }
     ]
 }
