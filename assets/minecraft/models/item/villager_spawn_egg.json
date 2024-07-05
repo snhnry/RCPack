@@ -1,1 +1,1 @@
-{"credit":"By Snhnry","parent":"item/template_spawn_egg","overrides":[{"predicate":{"custom_model_data":2},"model":"tlaminecraft:custom/vehicles/satomobilewhite"},{"predicate":{"custom_model_data":5},"model":"tlaminecraft:custom/vehicles/satovanwhite"}]}
+{"credit":"By Snhnry","parent":"item/template_spawn_egg","overrides":[{"predicate":{"custom_model_data":2},"model":"tlaminecraft:vehicles/satomobilewhite"},{"predicate":{"custom_model_data":5},"model":"tlaminecraft:vehicles/satovanwhite"}]}
