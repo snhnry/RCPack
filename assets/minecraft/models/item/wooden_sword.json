@@ -1,1 +1,1 @@
-{"credit":"By Snhnry","parent":"minecraft:item/handheld","textures":{"layer0":"item/wooden_sword"},"overrides":[{"model":"item/wooden_sword","predicate":{"custom_model_data":1}},{"model":"tlaminecraft:custom/items/glider","predicate":{"custom_model_data":2}}]}
+{"credit":"By Snhnry","parent":"minecraft:item/handheld","textures":{"layer0":"item/wooden_sword"},"overrides":[{"model":"item/wooden_sword","predicate":{"custom_model_data":1}},{"model":"tlaminecraft:items/glider","predicate":{"custom_model_data":2}}]}
