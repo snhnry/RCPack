@@ -8,7 +8,7 @@
         {
             "type": "directory",
             "source": "custom",
-            "prefix": "custom/"
+            "prefix": "tlaminecraft:custom/"
         },
         {
             "type": "directory",

@@ -2,133 +2,133 @@
 	"custom.rails": {
 	"sounds": [
 		{
-			"name": "custom/rails",
+			"name": "tlaminecraft:custom/rails",
 			"stream": false
 		}]
 	},
 	"custom.steamloco": {
 	"sounds": [
 		{
-			"name": "custom/steamloco",
+			"name": "tlaminecraft:custom/steamloco",
 			"stream": false
 		}]
 	},
 	"custom.steamwhistle": {
 	"sounds": [
 		{
-			"name": "custom/steamwhistle",
+			"name": "tlaminecraft:custom/steamwhistle",
 			"stream": true
 		}]
 	},
 	"custom.dieselloco": {
 	"sounds": [
 		{
-			"name": "custom/dieselloco",
+			"name": "tlaminecraft:custom/dieselloco",
 			"stream": false
 		}]
 	},
 	"custom.dieselhorn": {
 	"sounds": [
 		{
-			"name": "custom/dieselhorn",
+			"name": "tlaminecraft:custom/dieselhorn",
 			"stream": true
 		}]
 	},
 	"custom.electricloco": {
 	"sounds": [
 		{
-			"name": "custom/electricloco",
+			"name": "tlaminecraft:custom/electricloco",
 			"stream": false
 		}]
 	},
 	"custom.steambell": {
 	"sounds": [
 		{
-			"name": "custom/steambell",
+			"name": "tlaminecraft:custom/steambell",
 			"stream": false
 		}]
 	},
 	"custom.metrohorn": {
 	"sounds": [
 		{
-			"name": "custom/metrohorn",
+			"name": "tlaminecraft:custom/metrohorn",
 			"stream": false
 		}]
 	},
 	"custom.electricbell": {
 	"sounds": [
 		{
-			"name": "custom/electricbell",
+			"name": "tlaminecraft:custom/electricbell",
 			"stream": false
 		}]
 	},
 	"custom.trambell": {
 	"sounds": [
 		{
-			"name": "custom/trambell",
+			"name": "tlaminecraft:custom/trambell",
 			"stream": false
 		}]
 	},
 	"custom.electrichorn": {
 	"sounds": [
 		{
-			"name": "custom/electrichorn",
+			"name": "tlaminecraft:custom/electrichorn",
 			"stream": false
 		}]
 	},
 	"custom.moderndoor": {
 	"sounds": [
 		{
-			"name": "custom/moderndoor",
+			"name": "tlaminecraft:custom/moderndoor",
 			"stream": false
 		}]
 	},
 	"custom.moderndoorclose": {
 	"sounds": [
 		{
-			"name": "custom/moderndoorclose",
+			"name": "tlaminecraft:custom/moderndoorclose",
 			"stream": false
 		}]
 	},
 	"custom.steamidle": {
 	"sounds": [
 		{
-			"name": "custom/steamidle",
+			"name": "tlaminecraft:custom/steamidle",
 			"stream": false
 		}]
 	},
 	"custom.carstop": {
 	"sounds": [
 		{
-			"name": "custom/carstop",
+			"name": "tlaminecraft:custom/carstop",
 			"stream": true
 		}]
 	},
 	"custom.carstart": {
 	"sounds": [
 		{
-			"name": "custom/carstart",
+			"name": "tlaminecraft:custom/carstart",
 			"stream": true
 		}]
 	},
 	"custom.caridle": {
 	"sounds": [
 		{
-			"name": "custom/caridle",
+			"name": "tlaminecraft:custom/caridle",
 			"stream": true
 		}]
 	},
 	"custom.carmov": {
 	"sounds": [
 		{
-			"name": "custom/carmov",
+			"name": "tlaminecraft:custom/carmov",
 			"stream": true
 		}]
 	},
 	"warp.pad": {
     "sounds": [
 		{
-        "name": "custom/warppad",
+        "name": "tlaminecraft:custom/warppad",
 		"stream": true
 		}
     ]
