@@ -7,13 +7,8 @@
         },
         {
             "type": "directory",
-            "source": "item",
+            "source": "items",
             "prefix": "item/"
-        },
-        {
-            "type": "directory",
-            "source": "models",
-            "prefix": "models/"
         }
     ]
 }
