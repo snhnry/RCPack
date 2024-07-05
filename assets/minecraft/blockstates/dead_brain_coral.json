@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-	{  "model": "tlaminecraft:custom/street/waste_paper" },
-	{  "model": "tlaminecraft:custom/street/waste_paper", "y": 90 }
+	{  "model": "tlaminecraft:street/waste_paper" },
+	{  "model": "tlaminecraft:street/waste_paper", "y": 90 }
     ]
   }
 }
