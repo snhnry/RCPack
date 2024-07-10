@@ -1,10 +1,6 @@
 {
-  "block.minecraft.nether_gold_ore": "Yellow Facade block *",
   "block.minecraft.sea_pickle": "Road Slope *",
   "block.minecraft.dark_prismarine_slab": "Iron Grate Slab (Fire Escape)*",
-  "block.minecraft.prismarine_brick_slab": "Light Brick Slab *",
-  "block.minecraft.dark_prismarine_stairs": "Fire Escape Stairs (Fire Escapes should be max 10 stories) *",
-  "block.minecraft.prismarine_brick_stairs": "Light Brick Stairs *",
   "block.minecraft.redstone_torch": "Red Paper Lantern *",
   "block.minecraft.snow": "Straight Rail *",
   "block.minecraft.carved_pumpkin": "Crate Stack *",
@@ -62,7 +58,6 @@
   "item.minecraft.music_disc_stal": "Left turnout 45 to straight *",
   "block.minecraft.magenta_stained_glass": "Paper Window Block *",
   "block.minecraft.magenta_stained_glass_pane": "Paper Window Block Pane *",
-  "block.minecraft.dark_prismarine_slab": "White Adobe Slab *",
   "block.minecraft.prismarine_brick_slab": "Light Bricks Slab *",
   "block.minecraft.dark_prismarine_stairs": "White Adobe Stairs *",
   "block.minecraft.prismarine_brick_stairs": "Light Brick Stairs *",
