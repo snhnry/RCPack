@@ -1,0 +1,1 @@
+{"credit":"By Snhnry","ambientocclusion":false,"texture_size":[32,32],"textures":{"0":"tlaminecraft:signs/bisonmural","particle":"tlaminecraft:signs/bisonmural"},"elements":[{"from":[-16,-16,7],"to":[32,32,9],"faces":{"north":{"uv":[0,0,16,16],"texture":"#0"}}}]}
