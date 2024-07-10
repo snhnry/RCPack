@@ -1,3 +1,7 @@
 {
-  "parent": "tlaminecraft:street/red_lantern"
+  "variants": {
+    "": {
+      "model": "tlaminecraft:street/red_lantern"
+    }
+  }
 }
