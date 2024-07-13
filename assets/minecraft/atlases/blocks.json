@@ -57,6 +57,21 @@
         },
         {
             "type": "directory",
+            "source": "icons",
+            "prefix": "icons/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "hud",
+            "prefix": "hud/"
+        },
+        {
+            "type": "directory",
             "source": "ui",
             "prefix": "ui/"
         }
