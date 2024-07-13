@@ -1,4 +1,204 @@
 #version 150
+
 #moj_import <light.glsl>
 #moj_import <fog.glsl>
-in vec3 Position;in vec4 Color;in vec2 UV0;in ivec2 UV1,UV2;in vec3 Normal;uniform sampler2D Sampler0,Sampler1,Sampler2;uniform mat4 ModelViewMat;uniform mat4 ProjMat;uniform mat3 IViewRotMat;uniform int FogShape;uniform vec3 Light0_Direction,Light1_Direction;out float aa;out vec4 bb,cc,dd;out vec2 ee;out vec4 ff;out vec2 gg;flat out int hh;flat out int oo;void main(){hh=0; oo=0; gg=UV0; vec4 tp_1; tp_1.w=1.0; tp_1.xyz=Position; gl_Position=(ProjMat*(ModelViewMat*tp_1)); bb=minecraft_mix_light(Light0_Direction, Light1_Direction, Normal, Color); cc=texelFetch(Sampler2,(UV2 / 16), 0); dd=texelFetch(Sampler1, UV1, 0); vec4 tp_2; tp_2.w=0.0; tp_2.xyz=Normal; ff=(ProjMat*(ModelViewMat*tp_2)); ivec2 tp_3; tp_3=textureSize(Sampler0, 0); if(((((float(tp_3.x)==64.0) &&(float(tp_3.y)==64.0))&&(0.25 >= UV0.y))&&(ProjMat[3][2] != -2.0))){ vec3 tp_4;tp_4=(texelFetch(Sampler0, ivec2(51, 14), 0).xyz*255.0);vec3 tp_5;tp_5=(texelFetch(Sampler0, ivec2(2, 1), 0).xyz*255.0);if((((tp_4==vec3(242.0, 186.0, 134.0))&&(tp_5==vec3(255.0, 237.0, 168.0)))||((tp_4==vec3(241.0, 158.0, 152.0))&&(tp_5==vec3(224.0, 224.0, 224.0))))){ee=UV0; }else{vec2 ii_6; ii_6=UV0; int tp_7; tp_7=((gl_VertexID / 24)% 14); int tp_8; tp_8=(gl_VertexID / 48); int tp_9; tp_9=(tp_7 % 2); if((tp_8==0)){ oo=1;}else{ if((tp_8==1)){if(((tp_7==2)&&(0.5 < UV0.x))){ hh=1;} ii_6.y=(UV0.y / 0.25); if((ii_6.y < 0.75)){ ii_6.y=(ii_6.y*0.5);} if((tp_7==2)){ ii_6.x=((( (UV0.x / 0.5) *16.0)/ 64.0)+0.25);}else{ ii_6.x=((( (UV0.x-0.5)/ 0.5)*16.0)/ 64.0);} ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.75); }else{if((tp_8==2)){ float i1_10;if(((tp_7==4)&&(0.5 < UV0.x))){hh=1; }ii_6.y=(UV0.y / 0.25);if((ii_6.y < 0.75)){ii_6.y=(ii_6.y*0.5); }i1_10=UV0.x;if((tp_7 != 4)){i1_10=(UV0.x-0.5); }i1_10=(i1_10 / 0.5);if((i1_10 < 0.375)){i1_10=(i1_10 / 1.5); }else{if(((0.625 < i1_10)&&(i1_10 < 0.875))){ i1_10=(i1_10 / 1.125);} }if((tp_7==4)){ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.25); }else{ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.5); }ii_6.x=((i1_10*0.375)+0.25);}else{ if((tp_8==3)){if(((tp_7==6)&&(0.5 < UV0.x))){ hh=1;} ii_6.x=((UV0.x*2.0)-float(tp_9)); vec4 tp_11; tp_11=texelFetch(Sampler0, ivec2(54, 20), 0); if(((tp_11.w*255.0)==0.0)){ if((ii_6.x < 0.375)){ii_6.x=(ii_6.x*1.142857); }else{if(((0.625 < ii_6.x)&&(ii_6.x < 0.875))){ int tp_12;tp_12=(gl_VertexID % 12);if(((tp_12==0)||(tp_12==3))){ii_6.x=0.7142857; }else{ii_6.x=0.7857143; }} }ii_6.x=(ii_6.x*0.21875);}else{ ii_6.x=(ii_6.x*0.25);} ii_6.y=(UV0.y / 0.25); if((ii_6.y < 0.75)){ ii_6.y=(ii_6.y*0.5);} ii_6.x=(ii_6.x+((32.0+ (float(tp_9)*16.0) )/ 64.0)); ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.75); if((((tp_7==6)&&(UV0.x >= 0.5))&&(UV0.y==0.25))){ hh=1;} }else{if((tp_8==4)){ if(((tp_7==8)&&(0.5 < UV0.x))){hh=1; }ii_6.x=((UV0.x*2.0)-float(tp_9));vec4 tp_13;tp_13=texelFetch(Sampler0, ivec2(54, 20), 0);if(((tp_13.w*255.0)==0.0)){if((ii_6.x < 0.375)){ ii_6.x=(ii_6.x*1.142857);}else{ if(((0.625 < ii_6.x)&&(ii_6.x < 0.875))){int tp_14; tp_14=(gl_VertexID % 12); if(((tp_14==0)||(tp_14==3))){ ii_6.x=0.7142857;}else{ ii_6.x=0.7857143;} }} ii_6.x=(ii_6.x*0.21875); }else{ii_6.x=(ii_6.x*0.25); }ii_6.y=(UV0.y / 0.25);if((ii_6.y < 0.75)){ii_6.y=(ii_6.y*0.5); }ii_6.x=(ii_6.x+0.625);ii_6.y=((ii_6.y*0.25)+(float( (tp_9+1))*0.25));}else{ if((tp_8==5)){if(((tp_7==10)&&(0.5 < UV0.x))){ hh=1;} ii_6.y=(UV0.y / 0.25); if((ii_6.y < 0.75)){ ii_6.y=(ii_6.y*0.5);} if((tp_7==10)){ ii_6.x=(((UV0.x / 0.5)*16.0)/ 64.0);ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.25);}else{ ii_6.x=((( (UV0.x-0.5)/ 0.5)*16.0)/ 64.0);ii_6.y=(((ii_6.y*16.0)/ 64.0)+0.5);} }} }} }} ee=ii_6; }}else{ ee=UV0;} aa=length((ModelViewMat * vec4(Position, 1.0)).xyz);}
+
+in vec3 Position;
+in vec4 Color;
+in vec2 UV0;
+in ivec2 UV1;
+in ivec2 UV2;
+in vec3 Normal;
+
+uniform sampler2D Sampler0;
+uniform sampler2D Sampler1;
+uniform sampler2D Sampler2;
+
+uniform mat4 ModelViewMat;
+uniform mat4 ProjMat;
+uniform mat3 IViewRotMat;
+uniform int FogShape;
+
+uniform vec3 Light0_Direction;
+uniform vec3 Light1_Direction;
+
+
+out float vertexDistance;
+out vec4 vertexColor;
+out vec4 lightMapColor;
+out vec4 overlayColor;
+out vec2 texCoord0;
+out vec2 texCoord1;
+out vec4 normal;
+out float part;
+
+#define SPACING 1024.0
+#define MAXRANGE (0.5 * SPACING)
+
+const ivec2[] vanillaUVs = ivec2[](
+    ivec2(8,  0), // Top
+    ivec2(16, 0), // Bottom
+    ivec2(0,  8), // Right
+    ivec2(8,  8), // Front
+    ivec2(16, 8), // Left
+    ivec2(24, 8) // Back
+);
+
+const vec4[] subuvs = vec4[](
+    // 4x4x12
+    vec4(4.0,  0.0,  8.0,  4.0 ), // Top
+    vec4(8.0,  0.0,  12.0, 4.0 ), // Bottom
+    vec4(0.0,  4.0,  4.0,  16.0), // Right
+    vec4(4.0,  4.0,  8.0,  16.0), // Front
+    vec4(8.0,  4.0,  12.0, 16.0), // Left
+    vec4(12.0, 4.0,  16.0, 16.0), // Back
+
+    // 4x3x12
+    vec4(4.0,  0.0,  7.0,  4.0 ),
+    vec4(7.0,  0.0,  10.0, 4.0 ),
+    vec4(0.0,  4.0,  4.0,  16.0),
+    vec4(4.0,  4.0,  7.0,  16.0),
+    vec4(7.0,  4.0,  11.0, 16.0),
+    vec4(11.0, 4.0,  14.0, 16.0),
+
+    // 4x8x12
+    vec4(4.0,  0.0,  12.0, 4.0 ),
+    vec4(12.0,  0.0, 20.0, 4.0 ),
+    vec4(0.0,  4.0,  4.0,  16.0),
+    vec4(4.0,  4.0,  12.0, 16.0),
+    vec4(12.0, 4.0,  16.0, 16.0),
+    vec4(16.0, 4.0,  24.0, 16.0)
+);
+
+const vec2[] origins = vec2[](
+    vec2(40.0, 16.0), // right arm
+    vec2(40.0, 32.0),
+    vec2(32.0, 48.0), // left arm
+    vec2(48.0, 48.0),
+    vec2(40.0, 16.0), // slim right arm
+    vec2(40.0, 32.0),
+    vec2(32.0, 48.0), // slim left arm
+    vec2(48.0, 48.0),
+    vec2(16.0, 16.0), // torso
+    vec2(16.0, 32.0),
+    vec2(0.0,  16.0), // right leg
+    vec2(0.0,  32.0),
+    vec2(16.0, 48.0), // left leg
+    vec2(0.0,  48.0)
+);
+
+// face remap
+const int[] sodium = int[](0, 1, 3, 5, 4, 2);
+
+int remapFace(int id, bool hat) {
+    int face = (id / 4) % 6;
+    int sodiumFace = sodium[face];
+    if(face == sodiumFace)
+        return face;
+
+    int u = int(UV0.x * 64);
+    int v = int(UV0.y * 64);
+    int localId = id % 4;
+    switch(localId) {
+        case 0:
+            u -= 8;
+            break;
+        case 1:
+            break;
+        case 2:
+            v -= 8;
+            break;
+        case 3:
+            u -= 8;
+            v -= 8;
+            break;
+    }
+
+    if(hat)
+        u -= 32;
+
+    ivec2 vanilla = vanillaUVs[face];
+    return vanilla.x == u && vanilla.y == v ? face : sodiumFace;
+}
+
+int subUVOffset(int partId) {
+    if (partId == 3 || partId == 4) // Check for slim left or right arm
+        return 6;
+    if (partId == 5) // Check for body part
+        return 12;
+    return 0;
+}
+
+vec2 createOffset(int faceId, int vertexId, vec4 subuv) {
+    vec2 offset = vec2(0.0);
+    if (faceId == 1) {
+        if (vertexId == 0) {
+            offset += subuv.zw;
+        } else if (vertexId == 1) {
+            offset += subuv.xw;
+        } else if (vertexId == 2) {
+            offset += subuv.xy;
+        } else {
+            offset += subuv.zy;
+        }
+    } else {
+        if (vertexId == 0) {
+            offset += subuv.zy;
+        } else if (vertexId == 1) {
+            offset += subuv.xy;
+        } else if (vertexId == 2) {
+            offset += subuv.xw;
+        } else {
+            offset += subuv.zw;
+        }
+    }
+    return offset;
+}
+
+void main() {
+    vertexColor = minecraft_mix_light(Light0_Direction, Light1_Direction, normalize(Normal), Color);
+    lightMapColor = texelFetch(Sampler2, UV2 / 16, 0);
+    overlayColor = texelFetch(Sampler1, UV1, 0);
+    normal = ProjMat * ModelViewMat * vec4(Normal, 0.0);
+
+    ivec2 dim = textureSize(Sampler0, 0);
+
+    if (ProjMat[2][3] == 0.0 || dim.x != 64 || dim.y != 64) { // short circuit if cannot be player
+        part = 0.0;
+        texCoord0 = UV0;
+        texCoord1 = vec2(0.0);
+        vertexDistance = fog_distance(ModelViewMat, IViewRotMat * Position, FogShape);
+        gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    } else {
+        vec3 wpos = IViewRotMat * Position;
+        vec2 UVout = UV0;
+        vec2 UVout2 = vec2(0.0);
+        int partId = -int((wpos.y - MAXRANGE) / SPACING);
+        part = float(partId);
+
+        if (partId == 0) { // higher precision position if no translation is needed
+            gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+        } else {
+            int hatLayer = (gl_VertexID / 24) % 2;
+            int face = remapFace(gl_VertexID % 48, hatLayer == 1) % 6;
+
+            UVout = origins[2 * (partId - 1) + hatLayer];
+            UVout2 = origins[2 * (partId - 1)];
+
+            vec4 subuv = subuvs[subUVOffset(partId) + face];
+            vec2 offset = createOffset(face, gl_VertexID % 4, subuv);
+
+            UVout += offset;
+            UVout2 += offset;
+            UVout /= 64.0;
+            UVout2 /= 64.0;
+
+            wpos.y += SPACING * partId;
+            gl_Position = ProjMat * ModelViewMat * vec4(inverse(IViewRotMat) * wpos, 1.0);
+        }
+
+        vertexDistance = fog_distance(ModelViewMat, wpos, FogShape);
+        texCoord0 = UVout;
+        texCoord1 = UVout2;
+    }
+}
