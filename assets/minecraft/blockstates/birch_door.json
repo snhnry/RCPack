@@ -1,0 +1,125 @@
+{
+  "__comment": "Fair warning, this format is highly likely to change even more in the future!",
+  "variants": {
+    "facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_bottom"
+    },
+    "facing\u003dsouth,half\u003dlower,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_bottom",
+      "y": 90
+    },
+    "facing\u003dwest,half\u003dlower,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_bottom",
+      "y": 180
+    },
+    "facing\u003dnorth,half\u003dlower,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_bottom",
+      "y": 270
+    },
+    "facing\u003deast,half\u003dlower,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_bottom_rh"
+    },
+    "facing\u003dsouth,half\u003dlower,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 90
+    },
+    "facing\u003dwest,half\u003dlower,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 180
+    },
+    "facing\u003dnorth,half\u003dlower,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 270
+    },
+    "facing\u003deast,half\u003dlower,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 90
+    },
+    "facing\u003dsouth,half\u003dlower,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 180
+    },
+    "facing\u003dwest,half\u003dlower,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_bottom_rh",
+      "y": 270
+    },
+    "facing\u003dnorth,half\u003dlower,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_bottom_rh"
+    },
+    "facing\u003deast,half\u003dlower,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_bottom",
+      "y": 270
+    },
+    "facing\u003dsouth,half\u003dlower,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_bottom"
+    },
+    "facing\u003dwest,half\u003dlower,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_bottom",
+      "y": 90
+    },
+    "facing\u003dnorth,half\u003dlower,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_bottom",
+      "y": 180
+    },
+    "facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_top"
+    },
+    "facing\u003dsouth,half\u003dupper,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_top",
+      "y": 90
+    },
+    "facing\u003dwest,half\u003dupper,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_top",
+      "y": 180
+    },
+    "facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dfalse": {
+      "model": "block/door_birch_top",
+      "y": 270
+    },
+    "facing\u003deast,half\u003dupper,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_top_rh"
+    },
+    "facing\u003dsouth,half\u003dupper,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_top_rh",
+      "y": 90
+    },
+    "facing\u003dwest,half\u003dupper,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_top_rh",
+      "y": 180
+    },
+    "facing\u003dnorth,half\u003dupper,hinge\u003dright,open\u003dfalse": {
+      "model": "block/door_birch_top_rh",
+      "y": 270
+    },
+    "facing\u003deast,half\u003dupper,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_top_rh",
+      "y": 90
+    },
+    "facing\u003dsouth,half\u003dupper,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_top_rh",
+      "y": 180
+    },
+    "facing\u003dwest,half\u003dupper,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_top_rh",
+      "y": 270
+    },
+    "facing\u003dnorth,half\u003dupper,hinge\u003dleft,open\u003dtrue": {
+      "model": "block/door_birch_top_rh"
+    },
+    "facing\u003deast,half\u003dupper,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_top",
+      "y": 270
+    },
+    "facing\u003dsouth,half\u003dupper,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_top"
+    },
+    "facing\u003dwest,half\u003dupper,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_top",
+      "y": 90
+    },
+    "facing\u003dnorth,half\u003dupper,hinge\u003dright,open\u003dtrue": {
+      "model": "block/door_birch_top",
+      "y": 180
+    }
+  }
+}
