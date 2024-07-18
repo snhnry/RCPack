@@ -67,6 +67,11 @@
         },
         {
             "type": "directory",
+            "source": "vehicles",
+            "prefix": "vehicles/"
+        },
+        {
+            "type": "directory",
             "source": "hud",
             "prefix": "hud/"
         },
