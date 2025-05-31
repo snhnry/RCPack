@@ -3,12 +3,12 @@
     "facing=east,in_wall=false,open=false": {
       "uvlock": true,
       "y": 270,
-      "model": "block/beam_arch"
+      "model": "tlaminecraft:elevated/beam_arch"
     },
     "facing=east,in_wall=false,open=true": {
       "uvlock": true,
       "y": 270,
-      "model": "block/custom/rail_truss"
+      "model": "tlaminecraft:elevated/rail_truss"
     },
     "facing=east,in_wall=true,open=false": {
       "uvlock": true,
@@ -18,17 +18,17 @@
     "facing=east,in_wall=true,open=true": {
       "uvlock": true,
       "y": 270,
-      "model": "block/beam_punchout"
+      "model": "tlaminecraft:elevated/beam_punchout"
     },
     "facing=north,in_wall=false,open=false": {
       "uvlock": true,
       "y": 180,
-      "model": "block/beam_arch"
+      "model": "tlaminecraft:elevated/beam_arch"
     },
     "facing=north,in_wall=false,open=true": {
       "uvlock": true,
       "y": 180,
-      "model": "block/custom/rail_truss"
+      "model": "tlaminecraft:elevated/rail_truss"
     },
     "facing=north,in_wall=true,open=false": {
       "uvlock": true,
@@ -38,15 +38,15 @@
     "facing=north,in_wall=true,open=true": {
       "uvlock": true,
       "y": 180,
-      "model": "block/beam_punchout"
+      "model": "tlaminecraft:elevated/beam_punchout"
     },
     "facing=south,in_wall=false,open=false": {
       "uvlock": true,
-      "model": "block/beam_arch"
+      "model": "tlaminecraft:elevated/beam_arch"
     },
     "facing=south,in_wall=false,open=true": {
       "uvlock": true,
-      "model": "block/custom/rail_truss"
+      "model": "tlaminecraft:elevated/rail_truss"
     },
     "facing=south,in_wall=true,open=false": {
       "uvlock": true,
@@ -54,17 +54,17 @@
     },
     "facing=south,in_wall=true,open=true": {
       "uvlock": true,
-      "model": "block/beam_punchout"
+      "model": "tlaminecraft:elevated/beam_punchout"
     },
     "facing=west,in_wall=false,open=false": {
       "uvlock": true,
       "y": 90,
-      "model": "block/beam_arch"
+      "model": "tlaminecraft:elevated/beam_arch"
     },
     "facing=west,in_wall=false,open=true": {
       "uvlock": true,
       "y": 90,
-      "model": "block/custom/rail_truss"
+      "model": "tlaminecraft:elevated/rail_truss"
     },
     "facing=west,in_wall=true,open=false": {
       "uvlock": true,
@@ -74,7 +74,7 @@
     "facing=west,in_wall=true,open=true": {
       "uvlock": true,
       "y": 90,
-      "model": "block/beam_punchout"
+      "model": "tlaminecraft:elevated/beam_punchout"
     }
   }
 }
