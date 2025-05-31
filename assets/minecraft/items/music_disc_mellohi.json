@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tlaminecraft:elevated/rail_powered_switch_right_45.json"
+    "model": "tlaminecraft:elevated/rail_powered_switch_right_45"
   }
 }
