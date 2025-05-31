@@ -15,11 +15,11 @@
       "y": 90
     },
     "powered=false,shape=east_west": {
-      "model": "minecraft:block/rail_ties",
+      "model": "tlaminecraft:elevated/rail_ties",
       "y": 90
     },
     "powered=false,shape=north_south": {
-      "model": "minecraft:block/rail_ties"
+      "model": "tlaminecraft:elevated/rail_ties"
     },
     "powered=true,shape=ascending_east": {
       "model": "minecraft:block/activator_rail_on_raised_ne",
