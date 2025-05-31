@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tlaminecraft:elevated/rail_truss"
+    "model": "tlaminecraft:elevated/normal_rail_powered"
   }
 }
