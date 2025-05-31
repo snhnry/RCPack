@@ -1,6 +1,6 @@
     {
       "model": {
         "type": "minecraft:model",
-        "model": "tlaminecraft:models/signs/benderworld_standup"
+        "model": "tlaminecraft:signs/benderworld_standup"
       }
     }
