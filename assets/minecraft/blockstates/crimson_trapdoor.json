@@ -1,8 +1,11 @@
 {
   "variants": {
     "facing=east,half=bottom,open=false": {
-      "model": "tlaminecraft:elevated/normal_rail_powered",
-      "y": 90
+      "variants": [
+        { "model": "tlaminecraft:elevated/rail_elevated_powered", "y": 90, "weight": 10 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt", "y": 90, "weight": 1 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt2", "y": 90, "weight": 1 }
+      ]
     },
     "facing=east,half=bottom,open=true": {
       "model": "minecraft:block/crimson_trapdoor_open",
@@ -18,7 +21,11 @@
       "y": 270
     },
     "facing=north,half=bottom,open=false": {
-      "model": "tlaminecraft:elevated/normal_rail_powered"
+      "variants": [
+        { "model": "tlaminecraft:elevated/rail_elevated_powered", "weight": 10 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt", "weight": 1 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt2", "weight": 1 }
+      ]
     },
     "facing=north,half=bottom,open=true": {
       "model": "minecraft:block/crimson_trapdoor_open"
@@ -32,8 +39,11 @@
       "y": 180
     },
     "facing=south,half=bottom,open=false": {
-      "model": "tlaminecraft:elevated/normal_rail_powered",
-      "y": 180
+      "variants": [
+        { "model": "tlaminecraft:elevated/rail_elevated_powered", "y": 180, "weight": 10 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt", "y": 180, "weight": 1 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt2", "y": 180, "weight": 1 }
+      ]
     },
     "facing=south,half=bottom,open=true": {
       "model": "minecraft:block/crimson_trapdoor_open",
@@ -49,8 +59,11 @@
       "y": 0
     },
     "facing=west,half=bottom,open=false": {
-      "model": "tlaminecraft:elevated/normal_rail_powered",
-      "y": 270
+      "variants": [
+        { "model": "tlaminecraft:elevated/rail_elevated_powered", "y": 270, "weight": 10 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt", "y": 270, "weight": 1 },
+        { "model": "tlaminecraft:elevated/rail_elevated_powered_alt2", "y": 270, "weight": 1 }
+      ]
     },
     "facing=west,half=bottom,open=true": {
       "model": "minecraft:block/crimson_trapdoor_open",
