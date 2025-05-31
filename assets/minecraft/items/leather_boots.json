@@ -1,0 +1,355 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/leather_boots"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_bogie"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_steambogie"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_steammovfor"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_steammovrev"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_steamstop"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_steam1"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_steam2"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metro1"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metro2"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metroopenright1"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metroopenright2"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metroopenleft1"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metroopenleft2"
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_old1"
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_old2"
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metro1"
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metro2"
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metroopenright1"
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metroopenright2"
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metroopenleft1"
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metroopenleft2"
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_container1"
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_container2"
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_boxcar1"
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_boxcar2"
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tank1"
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tank2"
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_open1"
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_open2"
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_flat1"
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_flat2"
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_livestock1"
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_livestock2"
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tender1"
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tender2"
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_bogie_trolley"
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wheel_bogie_thirdrail"
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/amonposter"
+                }
+            },
+            {
+                "threshold": 118,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/tourist_info"
+                }
+            },
+            {
+                "threshold": 119,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:special/warp_pad"
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:special/warp_beam"
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:special/warp_beam_bottom"
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:special/su_sodamachine"
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:special/su_powerpole"
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/benderworld_subway"
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/subway_sign"
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/bisonmural"
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/food_cart"
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/benderworld_standup"
+                }
+            }
+        ]
+    }
+}

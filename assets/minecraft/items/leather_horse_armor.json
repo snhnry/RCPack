@@ -1,0 +1,2657 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/leather_horse_armor",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/upper_body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/jaw",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/tongue",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/mid_body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/left_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/right_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/left_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/lower_body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:canyoncrawler/right_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/left_front_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/right_front_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/top_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part5",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/anal_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/left_back_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/top_fin2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/right_back_fin",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/part6",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:elephantkoi/body6",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/chest",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/pelvis",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 29,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/neck",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 30,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/tail1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 35,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 36,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/tail2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 37,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 38,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 39,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_wing",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 40,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 41,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_wing",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 42,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 43,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/mouth",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 44,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_ear",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 45,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_ear",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 46,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/tail3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 47,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/left_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 48,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/right_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 49,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/tail4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 50,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:lemur_flying/tail5",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 51,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/chest",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 52,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/left_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 53,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/right_wing",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 54,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/right_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 55,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/left_wing",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 56,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/tail",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 57,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/neckbase",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 58,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/left_calf",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 59,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/right_calf",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 60,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/necktop",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 61,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/left_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 62,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/right_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 63,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:ostrichhorse/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 64,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 65,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 66,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/right_top_flipper",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 67,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/left_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 68,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/right_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 69,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/tail",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 70,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/left_bottom_flipper",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 71,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/left_top_flipper",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 72,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/right_bottom_flipper",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 73,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:otterpenguin/mouth",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 74,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/upper",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 75,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 76,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 77,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 78,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/lower",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 79,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/bill_bottom",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 80,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 81,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 82,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 83,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 84,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/tail",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 85,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 86,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 87,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 88,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 89,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/tail_tip",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 90,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/left_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 91,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:platypusbear/right_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 92,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 93,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/neck_top",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 94,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/right_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 95,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/left_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 96,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/left_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 97,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/right_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 98,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/tail",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 99,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 100,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduck/mouth_lower",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/neck_top",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/right_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/left_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 105,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/left_arm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 106,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/right_leg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 107,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/tail",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 108,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 109,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:turtleduckbaby/mouth_lower",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 110,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 111,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/jaw",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 112,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 113,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 114,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 115,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 116,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body5",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 117,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body6",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 118,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:unagi/body7",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 119,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/pelvis",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 120,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/rightleg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 121,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/leftarm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 122,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 123,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 124,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 125,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 126,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 127,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/chest",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 128,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_calve",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 129,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_ear",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 130,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/tail1",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 131,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_hand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 132,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/lantern",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 133,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 134,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 135,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_forearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 136,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/tail2",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 137,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/leftleg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 138,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 139,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_bicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 140,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:conductor/rightarm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 141,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/neck",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 142,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_thigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 143,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 144,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/rightleg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 145,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/leftleg",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 146,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 147,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/rightarm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 148,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/leftarm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 149,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:tourguide/hat",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 150,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/head",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 151,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/body",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 152,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/lthigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 153,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/leftbicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 154,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/rthigh",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 155,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/rightbicep",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 156,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/lcalf",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 157,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/leftforearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 158,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/rcalf",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 159,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/rightforearm",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 160,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/lfoot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 161,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/lefthand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 162,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/rfoot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 163,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:garnet/righthand",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 164,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/mouth",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 165,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_ear",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 166,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/left_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 167,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/tail3",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 168,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/right_foot",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 169,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/tail4",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 170,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:winged_lemur/tail5",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10012,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10013,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10015,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10016,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10017,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10018,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10019,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10020,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10021,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10022,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10023,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10024,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10025,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10026,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10027,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10028,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10029,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10030,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satomobile",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10031,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10032,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/satovan",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            },
+            {
+                "threshold": 10033,
+                "model": {
+                    "type": "model",
+                    "model": "item/leather_horse_armor",
+                    "tints": [
+                        {
+                            "type": "minecraft:dye",
+                            "default": -6265536
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

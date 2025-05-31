@@ -1,0 +1,369 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 10000,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_left_blue"
+                }
+            },
+            {
+                "threshold": 10001,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_right_blue"
+                }
+            },
+            {
+                "threshold": 10002,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_search"
+                }
+            },
+            {
+                "threshold": 10003,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_cancel"
+                }
+            },
+            {
+                "threshold": 10004,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_arrow_chest"
+                }
+            },
+            {
+                "threshold": 10005,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_back_orange"
+                }
+            },
+            {
+                "threshold": 10006,
+                "model": {
+                    "type": "model",
+                    "model": "_iainternal:ia_auto_gen/icon_next_orange"
+                }
+            },
+            {
+                "threshold": 10007,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/park_bench"
+                }
+            },
+            {
+                "threshold": 10008,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:signs/rc_map_display"
+                }
+            },
+            {
+                "threshold": 10009,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:blocks/facade_cross_circle"
+                }
+            },
+            {
+                "threshold": 10010,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/construction_barricade"
+                }
+            },
+            {
+                "threshold": 10011,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/ground_logs1"
+                }
+            },
+            {
+                "threshold": 10012,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/produce_stand_apple"
+                }
+            },
+            {
+                "threshold": 10013,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/produce_stand_assorted"
+                }
+            },
+            {
+                "threshold": 10014,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/produce_stand_melon"
+                }
+            },
+            {
+                "threshold": 10015,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/ground_logs2"
+                }
+            },
+            {
+                "threshold": 10016,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/red_lantern_multiple"
+                }
+            },
+            {
+                "threshold": 10017,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:street/ground_logs3"
+                }
+            },
+            {
+                "threshold": 10033,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_left_gray"
+                }
+            },
+            {
+                "threshold": 10034,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_left_blue"
+                }
+            },
+            {
+                "threshold": 10035,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_right_gray"
+                }
+            },
+            {
+                "threshold": 10036,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_right_blue"
+                }
+            },
+            {
+                "threshold": 10037,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_up_gray"
+                }
+            },
+            {
+                "threshold": 10038,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_up_blue"
+                }
+            },
+            {
+                "threshold": 10039,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_down_gray"
+                }
+            },
+            {
+                "threshold": 10040,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_down_blue"
+                }
+            },
+            {
+                "threshold": 10041,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_next_white"
+                }
+            },
+            {
+                "threshold": 10042,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_next_orange"
+                }
+            },
+            {
+                "threshold": 10043,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_back_white"
+                }
+            },
+            {
+                "threshold": 10044,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_back_orange"
+                }
+            },
+            {
+                "threshold": 10045,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_cancel"
+                }
+            },
+            {
+                "threshold": 10046,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_confirm"
+                }
+            },
+            {
+                "threshold": 10047,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_lock"
+                }
+            },
+            {
+                "threshold": 10048,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_unlock"
+                }
+            },
+            {
+                "threshold": 10049,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_web"
+                }
+            },
+            {
+                "threshold": 10050,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_ender_chest"
+                }
+            },
+            {
+                "threshold": 10051,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_refresh"
+                }
+            },
+            {
+                "threshold": 10052,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_day"
+                }
+            },
+            {
+                "threshold": 10053,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_midnight"
+                }
+            },
+            {
+                "threshold": 10054,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_night"
+                }
+            },
+            {
+                "threshold": 10055,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_noon"
+                }
+            },
+            {
+                "threshold": 10056,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_sunrise"
+                }
+            },
+            {
+                "threshold": 10057,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_time_sunset"
+                }
+            },
+            {
+                "threshold": 10058,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_toggle_off"
+                }
+            },
+            {
+                "threshold": 10059,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_toggle_on"
+                }
+            },
+            {
+                "threshold": 10060,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_arrow_chest"
+                }
+            },
+            {
+                "threshold": 10061,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_plus"
+                }
+            },
+            {
+                "threshold": 10062,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_color_picker"
+                }
+            },
+            {
+                "threshold": 10063,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_comment"
+                }
+            },
+            {
+                "threshold": 10064,
+                "model": {
+                    "type": "model",
+                    "model": "mcicons:ia_auto_gen/icon_search"
+                }
+            },
+            {
+                "threshold": 10065,
+                "model": {
+                    "type": "model",
+                    "model": "item/paper"
+                }
+            }
+        ]
+    }
+}
