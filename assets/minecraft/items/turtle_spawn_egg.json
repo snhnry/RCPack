@@ -1,0 +1,89 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/template_spawn_egg"
+        },
+        "entries": [
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_steam1"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/loco_metro1"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_old1"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/passcar_metro1"
+                }
+            },
+            {
+                "threshold": 18,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_container1"
+                }
+            },
+            {
+                "threshold": 19,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_boxcar1"
+                }
+            },
+            {
+                "threshold": 20,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tank1"
+                }
+            },
+            {
+                "threshold": 21,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_open1"
+                }
+            },
+            {
+                "threshold": 22,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_flat1"
+                }
+            },
+            {
+                "threshold": 23,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_livestock1"
+                }
+            },
+            {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "tlaminecraft:vehicles/wagon_tender1"
+                }
+            }
+        ]
+    }
+}
