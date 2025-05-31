@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/music_disc_mellohi"
+    "model": "tlaminecraft:elevated/rail_powered_switch_right_45.json"
   }
 }
