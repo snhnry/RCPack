@@ -1,6 +1,6 @@
 {
 	"credit": "By Snhnry",
-    "parent": "tlaminecraft:elevated/rail_powered_switch_right_90",
+    "parent": "tlaminecraft:elevated/rail_powered_switch_left_90",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 45, 0],
