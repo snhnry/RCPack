@@ -1,7 +1,7 @@
 {
   "variants": {
     "conditional=false,facing=down": {
-      "model": "minecraft:block/elevated_junctionbox"
+      "model": "tlaminecraft:elevated/elevated_junctionbox"
     },
     "conditional=false,facing=east": {
       "model": "minecraft:block/command_block",
