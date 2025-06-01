@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/trash_can"
+      "model": "tlaminecraft:street/trash_can"
     }
   }
 }
