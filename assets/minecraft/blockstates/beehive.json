@@ -2,7 +2,7 @@
   "variants": {
     "facing=east,honey_level=0": {
       "y": 90,
-      "model": "tlaminecraftindustrial/green_thick_girder"
+      "model": "tlaminecraft:industrial/green_thick_girder"
     },
     "facing=east,honey_level=1": {
       "y": 90,
@@ -25,7 +25,7 @@
       "model": "minecraft:block/beehive_honey"
     },
     "facing=north,honey_level=0": {
-      "model": "tlaminecraftindustrial/green_thick_girder"
+      "model": "tlaminecraft:industrial/green_thick_girder"
     },
     "facing=north,honey_level=1": {
       "model": "minecraft:block/beehive_empty"
@@ -44,7 +44,7 @@
     },
     "facing=south,honey_level=0": {
       "y": 180,
-      "model": "tlaminecraftindustrial/green_thick_girder"
+      "model": "tlaminecraft:industrial/green_thick_girder"
     },
     "facing=south,honey_level=1": {
       "y": 180,
@@ -68,7 +68,7 @@
     },
     "facing=west,honey_level=0": {
       "y": 270,
-      "model": "tlaminecraftindustrial/green_thick_girder"
+      "model": "tlaminecraf:tindustrial/green_thick_girder"
     },
     "facing=west,honey_level=1": {
       "y": 270,
