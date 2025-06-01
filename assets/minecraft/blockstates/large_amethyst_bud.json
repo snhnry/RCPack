@@ -1,25 +1,25 @@
 {
   "variants": {
     "facing=down": {
-      "model": "minecraft:block/custom/industrial_door_closed",
+      "model": "tlaminecraft:industrial/industrial_door_closed",
       "x": 180
     },
     "facing=east": {
-      "model": "minecraft:block/custom/industrial_door_closed",
+      "model": "tlaminecraft:industrial/industrial_door_closed",
       "y": 90
     },
     "facing=north": {
-      "model": "minecraft:block/custom/industrial_door_closed"
+      "model": "tlaminecraft:industrial/industrial_door_closed"
     },
     "facing=south": {
-      "model": "minecraft:block/custom/industrial_door_closed",
+      "model": "tlaminecraft:industrial/industrial_door_closed",
       "y": 180
     },
     "facing=up": {
-      "model": "minecraft:block/custom/industrial_door_closed"
+      "model": "tlaminecraft:industrial/industrial_door_closed"
     },
     "facing=west": {
-      "model": "minecraft:block/custom/industrial_door_closed",
+      "model": "tlaminecraft:industrial/industrial_door_closed",
       "y": 270
     }
   }

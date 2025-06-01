@@ -2,7 +2,7 @@
   "variants": {
     "pickles=1,waterlogged=false": [
       {
-        "model": "minecraft:block/custom/road_slope"
+        "model": "tlaminecraft:street/road_slope"
       }
     ],
     "pickles=1,waterlogged=true": [
@@ -24,7 +24,7 @@
     ],
     "pickles=2,waterlogged=false": [
       {
-        "model": "minecraft:block/custom/road_slope",
+        "model": "tlaminecraft:street/road_slope",
         "y": 90
       }
     ],
@@ -47,7 +47,7 @@
     ],
     "pickles=3,waterlogged=false": [
       {
-        "model": "minecraft:block/custom/road_slope",
+        "model": "tlaminecraft:street/road_slope",
         "y": 180
       }
     ],
@@ -70,7 +70,7 @@
     ],
     "pickles=4,waterlogged=false": [
       {
-        "model": "minecraft:block/custom/road_slope",
+        "model": "tlaminecraft:street/road_slope",
         "y": 270
       }
     ],

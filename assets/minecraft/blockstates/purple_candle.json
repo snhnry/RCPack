@@ -1,31 +1,31 @@
 {
     "variants": {
       "candles=1,lit=false": {
-        "model": "block/streetlight_double_angled"
+        "model": "tlaminecraft:street/streetlight_double_angled"
       },
       "candles=1,lit=true": {
-        "model": "block/streetlight_double_angled"
+        "model": "tlaminecraft:street/streetlight_double_angled"
       },
       "candles=2,lit=false": {
-        "model": "block/streetlight_double_angled",
+        "model": "tlaminecraft:street/streetlight_double_angled",
         "y": 90
       },
       "candles=2,lit=true": {
-        "model": "block/streetlight_double_angled",
+        "model": "tlaminecraft:street/streetlight_double_angled",
         "y": 90
       },
       "candles=3,lit=false": {
-        "model": "block/streetlight_double"
+        "model": "tlaminecraft:street/streetlight_double"
       },
       "candles=3,lit=true": {
-        "model": "block/streetlight_double"
+        "model": "tlaminecraft:street/streetlight_double"
       },
       "candles=4,lit=false": {
-        "model": "block/streetlight_double",
+        "model": "tlaminecraft:street/streetlight_double",
         "y": 90
       },
       "candles=4,lit=true": {
-        "model": "block/streetlight_double",
+        "model": "tlaminecraft:street/streetlight_double",
         "y": 90
       }
     }
