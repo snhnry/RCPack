@@ -1,15 +1,15 @@
 {
   "variants": {
     "axis=x": {
-      "model": "minecraft:block/green_thick_girder",
+      "model": "tlaminecraft:industrial/green_thick_girder",
       "y": 90	  
     },
     "axis=y": {
-      "model": "minecraft:block/green_thick_girder",
+      "model": "tlaminecraft:industrial/green_thick_girder",
       "x": 90
     },
     "axis=z": {
-      "model": "minecraft:block/green_thick_girder"
+      "model": "tlaminecraft:industrial/green_thick_girder"
     }
   }
 }

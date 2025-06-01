@@ -1,91 +1,91 @@
 {
     "variants": {
       "": [
-        {"model": "block/custom/crate1",
+        {"model": "tlaminecraft:industrial/crate1",
         "weight": 40
         },
-        {"model": "block/custom/crate1",
+        {"model": "tlaminecraft:industrial/crate1",
         "weight": 40,
         "y": 90
         },
 
 
-        {"model": "block/custom/crate2",
+        {"model": "tlaminecraft:industrial/crate2",
         "weight": 1,
         "y": 90
         },
-        {"model": "block/custom/crate2",
+        {"model": "tlaminecraft:industrial/crate2",
           "weight": 1,
           "y": 180
         },
-        {"model": "block/custom/crate2",
+        {"model": "tlaminecraft:industrial/crate2",
           "weight": 1,
           "y": 270
           },
-        {"model": "block/custom/crate2",
+        {"model": "tlaminecraft:industrial/crate2",
         "weight": 1
         },
  
-        {"model": "block/custom/crate5",
+        {"model": "tlaminecraft:industrial/crate5",
           "weight": 1,
           "y": 90
           },
-          {"model": "block/custom/crate5",
+          {"model": "tlaminecraft:industrial/crate5",
             "weight": 1,
             "y": 180
           },
-          {"model": "block/custom/crate5",
+          {"model": "tlaminecraft:industrial/crate5",
             "weight": 1,
             "y": 270
             },
-          {"model": "block/custom/crate5",
+          {"model": "tlaminecraft:industrial/crate5",
           "weight": 1
           },        
 
-        {"model": "block/custom/crate6",
+        {"model": "tlaminecraft:industrial/crate6",
           "weight": 1,
           "y": 90
           },
-          {"model": "block/custom/crate6",
+          {"model": "tlaminecraft:industrial/crate6",
             "weight": 1,
             "y": 180
           },
-          {"model": "block/custom/crate6",
+          {"model": "tlaminecraft:industrial/crate6",
             "weight": 1,
             "y": 270
             },
-          {"model": "block/custom/crate6",
+          {"model": "tlaminecraft:industrial/crate6",
           "weight": 1
           }, 
 
-        {"model": "block/custom/crate4",
+        {"model": "tlaminecraft:industrial/crate4",
           "weight": 1,
           "y": 90
           },
-          {"model": "block/custom/crate4",
+          {"model": "tlaminecraft:industrial/crate4",
             "weight": 1,
             "y": 180
           },
-          {"model": "block/custom/crate4",
+          {"model": "tlaminecraft:industrial/crate4",
             "weight": 1,
             "y": 270
             },
-          {"model": "block/custom/crate4",
+          {"model": "tlaminecraft:industrial/crate4",
           "weight": 1
           },      
 
-        {"model": "block/custom/crate3",
+        {"model": "tlaminecraft:industrial/crate3",
           "weight": 1,
           "y": 270
           },        
-        {"model": "block/custom/crate3",
+        {"model": "tlaminecraft:industrial/crate3",
         "weight": 1
         },
-        {"model": "block/custom/crate3",
+        {"model": "tlaminecraft:industrial/crate3",
         "weight": 1,
         "y": 180
         },
-        {"model": "block/custom/crate3",
+        {"model": "tlaminecraft:industrial/crate3",
         "weight": 1,
         "y": 90
         }    
