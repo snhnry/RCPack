@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "minecraft:block/letterbox",
+      "model": "tlaminecraft:street/letterbox",
       "y": 270
     },
     "facing=north": {
-      "model": "minecraft:block/letterbox",
+      "model": "tlaminecraft:street/letterbox",
       "y": 180
     },
     "facing=south": {
-      "model": "minecraft:block/letterbox"
+      "model": "tlaminecraft:street/letterbox"
     },
     "facing=west": {
-      "model": "minecraft:block/letterbox",
+      "model": "tlaminecraft:street/letterbox",
       "y": 90
     }
   }

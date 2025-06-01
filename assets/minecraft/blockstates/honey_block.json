@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "block/fire_hydrant"
+      "model": "tlaminecraft:street/fire_hydrant"
     }
   }
 }

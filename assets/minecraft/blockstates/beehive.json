@@ -68,7 +68,7 @@
     },
     "facing=west,honey_level=0": {
       "y": 270,
-      "model": "tlaminecraf:tindustrial/green_thick_girder"
+      "model": "tlaminecraft:industrial/green_thick_girder"
     },
     "facing=west,honey_level=1": {
       "y": 270,
