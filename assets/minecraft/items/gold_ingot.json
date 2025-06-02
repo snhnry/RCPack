@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:items/yuan_note"
+    "model": "tlaminecraft:items/yuan_note"
   }
 }
