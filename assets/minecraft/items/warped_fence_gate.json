@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tlaminecraft:rail_trolley/catenary_pole"
+    "model": "tlaminecraft:street/catenary_pole"
   }
 }
