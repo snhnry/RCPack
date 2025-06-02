@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "minecraft:block/facade_green_wood"
+      "model": "tlaminecraft:blocks/facade_green_wood"
     }
   }
 }
