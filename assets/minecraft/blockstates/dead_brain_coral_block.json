@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-      { "model": "block/dead_brain_coral_block", "weight": 96 },
-	  { "model": "block/dead_brain_coral_block_alt", "weight": 4 }
+      { "model": "tlaminecraft:block/sidewalk", "weight": 60 },
+	  { "model": "tlaminecraft:block/sidewalk_alt1", "weight": 40 }
 	  ]
   }
 }
