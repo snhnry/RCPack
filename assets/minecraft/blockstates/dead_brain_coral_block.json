@@ -5,7 +5,7 @@
 	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 830 },
     { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 100 },
     { "model": "tlaminecraft:blocks/sidewalk_alt3", "weight": 100 },
-    { "model": "tlaminecraft:blocks/sidewalk_alt_newspaper", "weight": 50 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt_newspaper", "weight": 2 },
     { "model": "tlaminecraft:blocks/sidewalk_alt_equalist", "weight": 1 }
 	  ]
   }
