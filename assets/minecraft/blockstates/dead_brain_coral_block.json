@@ -1,8 +1,8 @@
 {
   "variants": {
     "": [
-      { "model": "tlaminecraft:blocks/sidewalk", "weight": 870 },
-	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 830 },
+      { "model": "tlaminecraft:blocks/sidewalk", "weight": 1170 },
+	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 1130 },
     { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 100 },
     { "model": "tlaminecraft:blocks/sidewalk_alt3", "weight": 100 },
     { "model": "tlaminecraft:blocks/sidewalk_alt_newspaper", "weight": 1 },
