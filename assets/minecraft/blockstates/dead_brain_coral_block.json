@@ -3,9 +3,10 @@
     "": [
       { "model": "tlaminecraft:blocks/sidewalk", "weight": 1170 },
 	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 1130 },
-    { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 100 },
-    { "model": "tlaminecraft:blocks/sidewalk_alt3", "weight": 100 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 20 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt3", "weight": 20 },
     { "model": "tlaminecraft:blocks/sidewalk_alt_newspaper", "weight": 1 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt_leaf1", "weight": 1 },
     { "model": "tlaminecraft:blocks/sidewalk_alt_equalist", "weight": 1 }
 	  ]
   }
