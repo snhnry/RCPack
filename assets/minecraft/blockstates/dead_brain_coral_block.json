@@ -2,7 +2,7 @@
   "variants": {
     "": [
       { "model": "tlaminecraft:blocks/sidewalk", "weight": 150 },
-	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 30 },
+	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 40 },
     { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 1 },
     { "model": "tlaminecraft:blocks/sidewalk_alt3", "weight": 1 }
 	  ]
