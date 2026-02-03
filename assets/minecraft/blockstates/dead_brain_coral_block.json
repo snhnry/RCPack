@@ -3,6 +3,8 @@
     "": [
       { "model": "tlaminecraft:blocks/sidewalk", "weight": 70 },
 	  { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 30 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 1 },
+    { "model": "tlaminecraft:blocks/sidewalk_alt1", "weight": 1 },
     { "model": "tlaminecraft:blocks/sidewalk_alt2", "weight": 1 }
 	  ]
   }
