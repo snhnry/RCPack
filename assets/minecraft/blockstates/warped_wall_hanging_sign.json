@@ -1,19 +1,22 @@
 {
   "variants": {
     "facing=west": {
-      "model": "minecraft:block/warped_hanging_sign"
+      "model": "tlaminecraft:signs/rc_street_sign"
     },
     "facing=east": {
-      "model": "minecraft:block/warped_hanging_sign",
+      "model": "tlaminecraft:signs/rc_street_sign",
       "y": 180
     },
     "facing=north": {
-      "model": "minecraft:block/warped_hanging_sign",
+      "model": "tlaminecraft:signs/rc_street_sign",
       "y": 90
     },
     "facing=south": {
-      "model": "minecraft:block/warped_hanging_sign",
+      "model": "tlaminecraft:signs/rc_street_sign",
       "y": 270
+    },
+    "": {
+      "model": "minecraft:block/warped_hanging_sign"
     }
   }
 }
