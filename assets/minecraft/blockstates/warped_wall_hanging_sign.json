@@ -15,7 +15,7 @@
       "model": "tlaminecraft:signs/rc_street_sign",
       "y": 270
     },
-    "": {
+    "attached=false": {
       "model": "minecraft:block/warped_hanging_sign"
     }
   }
