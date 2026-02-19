@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "tlaminecraft:blocks/sidewalk"
+    "model": "tlaminecraft:street/waste_paper"
   }
 }
