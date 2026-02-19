@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tlaminecraft:street/awning_red",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tlaminecraft:street/awning_red"
+    },
+    "facing=south": {
+      "model": "tlaminecraft:street/awning_red",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tlaminecraft:street/awning_red",
+      "y": 270
+    }
+  }
+}

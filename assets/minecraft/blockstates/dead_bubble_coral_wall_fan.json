@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "tlaminecraft:street/awning_orange",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "tlaminecraft:street/awning_orange"
+    },
+    "facing=south": {
+      "model": "tlaminecraft:street/awning_orange",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "tlaminecraft:street/awning_orange",
+      "y": 270
+    }
+  }
+}
