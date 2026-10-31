@@ -12,6 +12,11 @@
         },
         {
             "type": "minecraft:directory",
+            "source": "tlaminecraft:entity",
+            "prefix": "tlaminecraft:entity/"
+        },
+        {
+            "type": "minecraft:directory",
             "source": "tlaminecraft:signs",
             "prefix": "tlaminecraft:signs/"
         },
