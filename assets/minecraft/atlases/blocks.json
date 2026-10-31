@@ -42,6 +42,11 @@
         },
         {
             "type": "directory",
+            "source": "custom_npcs",
+            "prefix": "custom_npcs/"
+        },
+        {
+            "type": "directory",
             "source": "ui",
             "prefix": "ui/"
         }
