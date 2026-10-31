@@ -2,11 +2,6 @@
     "sources": [
         {
             "type": "directory",
-            "source": "entity",
-            "prefix": "entity/"
-        },
-        {
-            "type": "directory",
             "source": "signs",
             "prefix": "signs/"
         },
