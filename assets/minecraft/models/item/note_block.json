@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/note_block","overrides":[{"predicate":{"custom_model_data":10000},"model":"tlaminecraft:blocks/facade_cross_circle"},{"predicate":{"custom_model_data":10001},"model":"item/note_block"}]}
