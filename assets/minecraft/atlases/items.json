@@ -2,16 +2,6 @@
     "sources": [
         {
             "type": "directory",
-            "source": "items",
-            "prefix": "items/"
-        },
-        {
-            "type": "directory",
-            "source": "block",
-            "prefix": "block/"
-        },
-        {
-            "type": "directory",
             "source": "entity",
             "prefix": "entity/"
         },
@@ -22,38 +12,13 @@
         },
         {
             "type": "directory",
-            "source": "special",
-            "prefix": "special/"
-        },
-        {
-            "type": "directory",
             "source": "street",
             "prefix": "street/"
         },
         {
             "type": "directory",
-            "source": "icons",
-            "prefix": "icons/"
-        },
-        {
-            "type": "directory",
-            "source": "gui",
-            "prefix": "gui/"
-        },
-        {
-            "type": "directory",
-            "source": "vehicles",
-            "prefix": "vehicles/"
-        },
-        {
-            "type": "directory",
-            "source": "hud",
-            "prefix": "hud/"
-        },
-        {
-            "type": "directory",
-            "source": "ui",
-            "prefix": "ui/"
+            "source": "special",
+            "prefix": "special/"
         }
     ]
 }
