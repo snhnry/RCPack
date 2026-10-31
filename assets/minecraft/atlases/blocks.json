@@ -1,59 +1,59 @@
 {
     "sources": [
         {
-            "type": "minecraft:directory",
-            "source": "items",
-            "prefix": "items/"
+            "type": "directory",
+            "source": "tlaminecraft:items",
+            "prefix": "tlaminecraft:items/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "block",
-            "prefix": "block/"
+            "type": "directory",
+            "source": "tlaminecraft:block",
+            "prefix": "tlaminecraft:block/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "entity",
-            "prefix": "entity/"
+            "type": "directory",
+            "source": "tlaminecraft:entity",
+            "prefix": "tlaminecraft:entity/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "signs",
-            "prefix": "signs/"
+            "type": "directory",
+            "source": "tlaminecraft:signs",
+            "prefix": "tlaminecraft:signs/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "special",
-            "prefix": "special/"
+            "type": "directory",
+            "source": "tlaminecraft:special",
+            "prefix": "tlaminecraft:special/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "street",
-            "prefix": "street/"
+            "type": "directory",
+            "source": "tlaminecraft:street",
+            "prefix": "tlaminecraft:street/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "icons",
-            "prefix": "icons/"
+            "type": "directory",
+            "source": "tlaminecraft:icons",
+            "prefix": "tlaminecraft:icons/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "gui",
-            "prefix": "gui/"
+            "type": "directory",
+            "source": "tlaminecraft:gui",
+            "prefix": "tlaminecraft:gui/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "vehicles",
-            "prefix": "vehicles/"
+            "type": "directory",
+            "source": "tlaminecraft:vehicles",
+            "prefix": "tlaminecraft:vehicles/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "hud",
-            "prefix": "hud/"
+            "type": "directory",
+            "source": "tlaminecraft:hud",
+            "prefix": "tlaminecraft:hud/"
         },
         {
-            "type": "minecraft:directory",
-            "source": "ui",
-            "prefix": "ui/"
+            "type": "directory",
+            "source": "tlaminecraft:ui",
+            "prefix": "tlaminecraft:ui/"
         }
     ]
 }
